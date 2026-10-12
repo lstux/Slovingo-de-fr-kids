@@ -181,14 +181,14 @@
       ]
     },
     {
-      "id": "listen-mein-bruder-ist-gro-aber-meine-schwester-ist-klein",
+      "id": "listen-meine-schwester-ist-gro-aber-mein-bruder-ist-klein",
       "type": "listen",
-      "l1": "Mon frère est grand, mais ma sœur est petite.",
-      "l2": "Mein Bruder ist groß, aber meine Schwester ist klein.",
+      "l1": "Ma sœur est grande, mais mon frère est petit.",
+      "l2": "Meine Schwester ist groß, aber mein Bruder ist klein.",
       "choices_l1": [
-        "Mon frère est petit, mais ma sœur est grande.",
-        "Mon père est grand, mais ma mère est petite.",
-        "Mon frère est grand, et ma sœur aussi."
+        "Ma sœur est petite, mais mon frère est grand.",
+        "Ma mère est grande, mais mon père est petit.",
+        "Ma sœur est grande, et mon frère aussi."
       ]
     },
     {
@@ -276,10 +276,10 @@
       "show_translation": true
     },
     {
-      "id": "blank-mein-bruder-ist-gro-aber-meine-schwester-ist-klein",
+      "id": "blank-meine-schwester-ist-gro-aber-mein-bruder-ist-klein",
       "type": "fill-blank",
-      "l1": "Mon frère est grand, mais ma sœur est petite.",
-      "l2": "Mein Bruder ist groß, aber meine Schwester ist klein.",
+      "l1": "Ma sœur est grande, mais mon frère est petit.",
+      "l2": "Meine Schwester ist groß, aber mein Bruder ist klein.",
       "missing_l1": "mais",
       "missing_l2": "aber",
       "blank_index_l1": 4,

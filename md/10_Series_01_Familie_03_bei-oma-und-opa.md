@@ -86,10 +86,10 @@
 > meinen Kuchen = mon gâteau
 + {{mein}} devient {{meinen}}, comme {{ein}} devient {{einen}}.
 
-! Opa ist groß und Oma ist klein.
-> Papi est grand et mamie est petite.
-> groß = grand
-> klein = petite
+! Oma ist groß und Opa ist klein.
+> Mamie est grande et papi est petit.
+> groß = grande
+> klein = petit
 
 ---
 
