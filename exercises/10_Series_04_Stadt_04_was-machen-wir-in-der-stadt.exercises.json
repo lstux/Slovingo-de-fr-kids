@@ -277,18 +277,18 @@
       ]
     },
     {
-      "id": "order-mama-kauft-brot-in-der-b-ckerei",
+      "id": "order-papa-kauft-brot-in-der-b-ckerei",
       "type": "order",
-      "l1": "Maman achète du pain à la boulangerie.",
-      "l2": "Mama kauft Brot in der Bäckerei.",
+      "l1": "Papa achète du pain à la boulangerie.",
+      "l2": "Papa kauft Brot in der Bäckerei.",
       "tokens_l1": [
-        "Maman",
+        "Papa",
         "achète",
         "du pain",
         "à la boulangerie."
       ],
       "tokens_l2": [
-        "Mama",
+        "Papa",
         "kauft",
         "Brot",
         "in der Bäckerei."

@@ -47,8 +47,8 @@
 > Je vais à pied.
 > Ich gehe = je vais (à pied)
 
-! Papa fährt mit dem Auto.
-> Papa va en voiture.
+! Mama fährt mit dem Auto.
+> Maman va en voiture.
 > mit dem Auto = en voiture
 
 ! Das Boot kommt!

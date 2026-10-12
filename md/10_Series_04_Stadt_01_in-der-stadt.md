@@ -67,8 +67,8 @@
 > La ville est grande.
 > Die Stadt = la ville
 
-! Mama ist in der Bäckerei.
-> Maman est à la boulangerie.
+! Papa ist in der Bäckerei.
+> Papa est à la boulangerie.
 > in der Bäckerei = à la boulangerie
 
 ---

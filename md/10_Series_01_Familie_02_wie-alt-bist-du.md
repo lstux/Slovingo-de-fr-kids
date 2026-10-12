@@ -64,8 +64,8 @@
 > sind = sont
 + {{klein}} ne change jamais : petit, petite, petits… c'est toujours {{klein}} !
 
-! Mein Bruder ist groß, aber meine Schwester ist klein.
-> Mon frère est grand, mais ma sœur est petite.
+! Meine Schwester ist groß, aber mein Bruder ist klein.
+> Ma sœur est grande, mais mon frère est petit.
 > aber = mais
 
 ---

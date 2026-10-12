@@ -60,8 +60,8 @@
 
 ## On révise
 
-! Mama kauft Brot in der Bäckerei.
-> Maman achète du pain à la boulangerie.
+! Papa kauft Brot in der Bäckerei.
+> Papa achète du pain à la boulangerie.
 > kauft = achète
 
 ! Ich sehe die Eisdiele!

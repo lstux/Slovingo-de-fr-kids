@@ -137,25 +137,25 @@
       ]
     },
     {
-      "id": "listen-meine-mutter-kocht-gern",
+      "id": "listen-mein-vater-kocht-gern",
       "type": "listen",
-      "l1": "Ma mère aime cuisiner.",
-      "l2": "Meine Mutter kocht gern.",
+      "l1": "Mon père aime cuisiner.",
+      "l2": "Mein Vater kocht gern.",
       "choices_l1": [
-        "Ma mère aime chanter.",
-        "Mon père aime cuisiner.",
-        "Ma sœur aime cuisiner."
+        "Mon père aime chanter.",
+        "Ma mère aime cuisiner.",
+        "Mon frère aime cuisiner."
       ]
     },
     {
-      "id": "listen-mein-vater-singt-gern",
+      "id": "listen-meine-mutter-singt-gern",
       "type": "listen",
-      "l1": "Mon père aime chanter.",
-      "l2": "Mein Vater singt gern.",
+      "l1": "Ma mère aime chanter.",
+      "l2": "Meine Mutter singt gern.",
       "choices_l1": [
-        "Mon père aime jouer.",
-        "Mon frère aime chanter.",
-        "Ma mère aime chanter."
+        "Ma mère aime jouer.",
+        "Ma sœur aime chanter.",
+        "Mon père aime chanter."
       ]
     },
     {
@@ -266,10 +266,10 @@
       "show_translation": true
     },
     {
-      "id": "blank-meine-mutter-kocht-gern",
+      "id": "blank-mein-vater-kocht-gern",
       "type": "fill-blank",
-      "l1": "Ma mère aime cuisiner.",
-      "l2": "Meine Mutter kocht gern.",
+      "l1": "Mon père aime cuisiner.",
+      "l2": "Mein Vater kocht gern.",
       "missing_l1": "cuisiner",
       "missing_l2": "kocht",
       "blank_index_l1": 3,
@@ -322,19 +322,19 @@
       ]
     },
     {
-      "id": "order-meine-mutter-kocht-gern",
+      "id": "order-mein-vater-kocht-gern",
       "type": "order",
-      "l1": "Ma mère aime cuisiner.",
-      "l2": "Meine Mutter kocht gern.",
+      "l1": "Mon père aime cuisiner.",
+      "l2": "Mein Vater kocht gern.",
       "tokens_l1": [
-        "Ma",
-        "mère",
+        "Mon",
+        "père",
         "aime",
         "cuisiner."
       ],
       "tokens_l2": [
-        "Meine",
-        "Mutter",
+        "Mein",
+        "Vater",
         "kocht",
         "gern."
       ]

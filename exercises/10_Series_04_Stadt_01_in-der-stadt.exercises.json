@@ -223,10 +223,10 @@
       "show_translation": true
     },
     {
-      "id": "blank-mama-ist-in-der-b-ckerei",
+      "id": "blank-papa-ist-in-der-b-ckerei",
       "type": "fill-blank",
-      "l1": "Maman est à la boulangerie.",
-      "l2": "Mama ist in der Bäckerei.",
+      "l1": "Papa est à la boulangerie.",
+      "l2": "Papa ist in der Bäckerei.",
       "missing_l1": "boulangerie",
       "missing_l2": "Bäckerei",
       "blank_index_l1": 4,
