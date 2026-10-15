@@ -171,6 +171,35 @@
     "backup_import": "📤 Importer une sauvegarde (JSON)",
     "map_final_reached": "Bravo ! Tu as terminé tout le parcours !"
   },
+  "cheers": {
+    "perfect": [
+      {"t": "Ausgezeichnet!", "n": "Excellent !"},
+      {"t": "Unglaublich!", "n": "Incroyable !"},
+      {"t": "Spitze!", "n": "Génial !"},
+      {"t": "Hundert Prozent!", "n": "Cent pour cent !"},
+      {"t": "Zu leicht für dich?!", "n": "Trop facile pour toi ?!"}
+    ],
+    "great": [
+      {"t": "Super gemacht!", "n": "Super !"},
+      {"t": "Fast perfekt!", "n": "Presque parfait !"},
+      {"t": "Sehr gut!", "n": "Très bien !"}
+    ],
+    "good": [
+      {"t": "Gut gemacht!", "n": "Bien joué !"},
+      {"t": "Schön!", "n": "Joli !"},
+      {"t": "Du bist gut dabei!", "n": "Tu t'en sors bien !"}
+    ],
+    "ok": [
+      {"t": "Nicht schlecht!", "n": "Pas mal !"},
+      {"t": "Weiter so!", "n": "Continue comme ça !"},
+      {"t": "Es wird besser!", "n": "Ça s'améliore !"}
+    ],
+    "retry": [
+      {"t": "Versuch es nochmal!", "n": "Essaie encore !"},
+      {"t": "Nicht aufgeben!", "n": "Ne lâche pas !"},
+      {"t": "Übung macht den Meister!", "n": "C'est en s'entraînant qu'on progresse !"}
+    ]
+  },
   "generator": {
     "target_headers": [
       "german",
