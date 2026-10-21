@@ -48,12 +48,12 @@
 > zusammen = ensemble
 + Le z se dit « ts » : {{zusammen}} se dit « tsouzammen ».
 
-! Meine Mutter kocht gern.
-> Ma mère aime cuisiner.
+! Mein Vater kocht gern.
+> Mon père aime cuisiner.
 > kocht gern = aime cuisiner
 
-! Mein Vater singt gern.
-> Mon père aime chanter.
+! Meine Mutter singt gern.
+> Ma mère aime chanter.
 > singt gern = aime chanter
 
 ! Wir lachen zusammen.

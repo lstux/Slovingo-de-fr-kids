@@ -132,14 +132,14 @@
       ]
     },
     {
-      "id": "listen-papa-f-hrt-mit-dem-auto",
+      "id": "listen-mama-f-hrt-mit-dem-auto",
       "type": "listen",
-      "l1": "Papa va en voiture.",
-      "l2": "Papa fährt mit dem Auto.",
+      "l1": "Maman va en voiture.",
+      "l2": "Mama fährt mit dem Auto.",
       "choices_l1": [
-        "Papa va en bateau.",
-        "Maman va en voiture.",
-        "Papa va à pied."
+        "Maman va en bateau.",
+        "Papa va en voiture.",
+        "Maman va à pied."
       ]
     },
     {
@@ -228,10 +228,10 @@
       "show_translation": true
     },
     {
-      "id": "blank-papa-f-hrt-mit-dem-auto",
+      "id": "blank-mama-f-hrt-mit-dem-auto",
       "type": "fill-blank",
-      "l1": "Papa va en voiture.",
-      "l2": "Papa fährt mit dem Auto.",
+      "l1": "Maman va en voiture.",
+      "l2": "Mama fährt mit dem Auto.",
       "missing_l1": "voiture",
       "missing_l2": "mit",
       "blank_index_l1": 3,
@@ -265,17 +265,17 @@
       ]
     },
     {
-      "id": "order-papa-f-hrt-mit-dem-auto",
+      "id": "order-mama-f-hrt-mit-dem-auto",
       "type": "order",
-      "l1": "Papa va en voiture.",
-      "l2": "Papa fährt mit dem Auto.",
+      "l1": "Maman va en voiture.",
+      "l2": "Mama fährt mit dem Auto.",
       "tokens_l1": [
-        "Papa",
+        "Maman",
         "va",
         "en voiture."
       ],
       "tokens_l2": [
-        "Papa",
+        "Mama",
         "fährt",
         "mit dem Auto."
       ]
