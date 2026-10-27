@@ -1,6 +1,6 @@
 # Introduction (1/5) — Comment ça marche ?
 
-@ TODO_img/comment-ca-marche.jpg | TODO : choisir une image (enfant avec des écouteurs, ou tablette) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Vulpes_vulpes_Mallnitz_01.jpg?width=800 | Un renard roux dans les montagnes d'Autriche (photo : Uoaei1, CC BY-SA 4.0, Wikimedia Commons)
 
 ## Salut ! Comment tu t'appelles ?
 

@@ -1,6 +1,6 @@
 # Série Essen (2/5) — Ich habe Hunger
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Callospermophilus_lateralis_near_Lake_Almanor.jpg?width=800 | Écureuil terrestre près du lac Almanor, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Red_squirrel_eating_hazel_nut.jpg?width=800 | Un écureuil qui grignote une noisette (photo : Evas-naturfotografie, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Tu as faim ? Tu as soif ? On apprend à le dire, et à demander poliment ce que tu voudrais.}}
 

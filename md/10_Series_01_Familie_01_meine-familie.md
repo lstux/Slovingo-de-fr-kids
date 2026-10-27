@@ -1,6 +1,6 @@
 # Série Familie (1/5) — Meine Familie
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Happy_family.jpg?width=800 | Famille heureuse, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Mlade_lisice_u_rupi.jpg?width=800 | Une famille de renards devant leur terrier (photo : Divlja Srbija, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Nouvelle série : la famille ! Dans la Forêt-Noire, tous les animaux ont une famille, et toi aussi. Tu vas apprendre à présenter ton papa, ta maman, ton frère ou ta sœur.}}
 

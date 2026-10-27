@@ -1,6 +1,6 @@
 # Série Essen (extra) — Alles zusammen
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/088_Angolan_giraffe_eating_eating_from_an_acacia_tree_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg?width=800 | Girafe angolaise mangeant des feuilles d'acacia, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Honigglas_Einheitsglas_des_Deutschen_Imkerbundes_Ansicht.jpg?width=800 | Un pot de miel allemand (Honigglas) (photo : Fonzie, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Essen, et on mélange les mots dans de nouvelles phrases !}}
 

@@ -1,6 +1,6 @@
 # Série Stadt (2/5) — Wie kommst du dorthin?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (bus, tram, vélos en ville...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Titisee%2C_Boote.jpg?width=800 | Des barques sur le Titisee (photo : Gerd Fahrenhorst, CC BY 4.0, Wikimedia Commons)
 
 {{fr:En bateau sur le lac, à vélo, en voiture ou à pied ? Il y a deux verbes pour dire « aller » : un pour ce qui se conduit, un pour tes deux jambes.}}
 

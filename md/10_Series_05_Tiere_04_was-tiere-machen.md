@@ -1,6 +1,6 @@
 # Série Tiere (4/5) — Was Tiere machen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (animaux qui courent, volent, nagent...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Wanderfalke_%28falco_peregrinus%29_-_Spiekeroog%2C_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg?width=800 | Un faucon pèlerin, comme Herr Falke (photo : Stephan Sprinz, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Ce que font les animaux de la forêt : courir, voler, nager, sauter… et manger. Mais attention, un animal ne mange pas comme toi !}}
 

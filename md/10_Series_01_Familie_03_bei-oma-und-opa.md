@@ -1,6 +1,6 @@
 # Série Familie (3/5) — Bei Oma und Opa
 
-@ https://upload.wikimedia.org/wikipedia/commons/e/e8/Maison_typique_des_%C3%AEles_frisonnes%2C_Amrum%2C_Allemagne_%2814499013013%29.jpg | Maison typique des îles frisonnes, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Cervus_elaphus_Luc_Viatour_1.jpg?width=800 | Un cerf élaphe, comme Opa Karl (photo : Lviatour, CC BY-SA 3.0, Wikimedia Commons)
 
 {{fr:On va chez la mamie et le papi de Lea : Oma Hilde, un hibou, et Opa Karl, un cerf. Il y a une maison, un jardin, un chien, un chat… et un gâteau !}}
 

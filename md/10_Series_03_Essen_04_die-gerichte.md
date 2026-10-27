@@ -1,6 +1,6 @@
 # Série Essen (4/5) — Die Gerichte
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/BrezelnSalz02_%28cropped%29.JPG?width=800 | Bretzels avec sel, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Brezel_l_B%C3%A4ckerei-Raisch.jpg?width=800 | Un bretzel, une spécialité du Sud de l'Allemagne (photo : LenaRaisch, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Les petits plats de la forêt et du village. Et une formule pour commander comme un grand !}}
 

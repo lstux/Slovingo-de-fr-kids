@@ -1,6 +1,6 @@
 # Série Stadt (4/5) — Was machen wir in der Stadt?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfant qui achète une glace ou des bonbons, pièces de monnaie...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Euro_coins_and_banknotes.jpg?width=800 | Des pièces et des billets en euros (photo : Avij, Public domain, Wikimedia Commons)
 
 {{fr:En ville, on voit plein de choses, on retrouve des copains… et on fait des achats avec son argent de poche !}}
 

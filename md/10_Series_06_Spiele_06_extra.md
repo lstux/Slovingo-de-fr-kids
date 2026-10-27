@@ -1,6 +1,6 @@
 # Série Spiele (extra) — Alles zusammen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfants qui jouent ensemble, jeux variés...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Meadow_in_Black_Forest.jpg?width=800 | Une prairie de la Forêt-Noire (photo : Smilla Heckel, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Spiele, et on mélange les mots dans de nouvelles phrases !}}
 

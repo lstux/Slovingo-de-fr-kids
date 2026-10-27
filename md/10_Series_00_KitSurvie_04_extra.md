@@ -1,6 +1,6 @@
 # Kit de Survie (extra) — Alles zusammen
 
-@ https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Children_at_school_%288720604364%29.jpg/960px-Children_at_school_%288720604364%29.jpg | Enfants à l'école, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Schluchsee_Aug_2010_a.jpg?width=800 | Le Schluchsee, un lac de la Forêt-Noire (photo : Cayambe, CC BY-SA 3.0, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit tout le Kit de Survie, et on mélange les mots dans de nouvelles phrases !}}
 

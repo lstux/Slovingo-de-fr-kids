@@ -1,6 +1,6 @@
 # Série Familie (extra) — Alles zusammen
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Happy_Family_Members.JPG?width=800 | Membres de famille heureux, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Young_Foxes_2_%287236327624%29.jpg?width=800 | De jeunes renards ensemble (photo : Tony Hisgett, CC BY 2.0, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Familie, et on mélange les mots dans de nouvelles phrases !}}
 

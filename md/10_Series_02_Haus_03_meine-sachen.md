@@ -1,6 +1,6 @@
 # Série Haus (3/5) — Meine Sachen
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Kiki-Musee-du-Jouet-Moirans39-byRundvald.jpg?width=800 | Musée des jouets Kiki, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Ein_Eingang_zu_einem_Fuchsbau_01.jpg?width=800 | L'entrée d'un terrier de renard (un Fuchsbau) (photo : Andreas Huth, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Tes affaires, dans ton terrier : tes livres, tes jouets… Et quand on ne les trouve plus, on demande où ils sont !}}
 

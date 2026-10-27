@@ -1,6 +1,6 @@
 # Série Tiere (3/5) — Tiere im Wald
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (cerf, chevreuil, sanglier en Forêt-Noire...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Reh_im_Wald.jpg?width=800 | Un chevreuil dans la forêt (photo : Sitka Natur, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Les grands et les petits animaux de la forêt ! Et on apprend à comparer : qui est le plus grand ?}}
 

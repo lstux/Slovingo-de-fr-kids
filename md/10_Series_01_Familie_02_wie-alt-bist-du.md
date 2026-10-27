@@ -1,6 +1,6 @@
 # Série Familie (2/5) — Wie alt bist du?
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Kids_and_cake_3.jpg?width=800 | Enfants avec gâteau, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Hare_in_Jusandala_1.jpg?width=800 | Un lièvre qui dresse l'oreille (photo : AlyonaKaptyonkina, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Quel âge as-tu ? Dans la forêt, il y a des petits lièvres et de très grands cerfs. On apprend à dire son âge, et à dire si quelqu'un est grand ou petit.}}
 

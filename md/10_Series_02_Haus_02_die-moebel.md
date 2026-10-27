@@ -1,6 +1,6 @@
 # Série Haus (2/5) — Die Möbel
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Bed_Room.jpg?width=800 | Chambre à coucher, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Badger_sett.jpg?width=800 | L'entrée d'un terrier de blaireau (un Dachsbau) (photo : Rubbish computer, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:La table, le lit, le canapé… chez Lea et dans le terrier de Tom. On apprend comment dire dans quelle pièce ils sont.}}
 

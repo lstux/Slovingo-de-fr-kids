@@ -1,6 +1,6 @@
 # Série Tiere (1/5) — Waldtiere
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (renard, lièvre, écureuil dans la Forêt-Noire...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Red_squirrel_%2821808%29.jpg?width=800 | Un écureuil roux (Eichhörnchen) (photo : Rhododendrites, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Les animaux de la forêt : le renard, le lièvre, l'écureuil… Et une petite fin de mot qui rend tout mignon !}}
 

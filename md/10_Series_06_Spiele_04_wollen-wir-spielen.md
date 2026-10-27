@@ -1,6 +1,6 @@
 # Série Spiele (4/5) — Wollen wir spielen?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfants qui forment une équipe, match de foot...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg?width=800 | Un ballon sur l'herbe (photo : Peter Glaser, CC0, Wikimedia Commons)
 
 {{fr:Proposer de jouer, faire une équipe… et marquer un but !}}
 

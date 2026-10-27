@@ -1,6 +1,6 @@
 # Série Stadt (3/5) — Wo ist die Eisdiele?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (panneau de direction, feu pour piétons, carrefour...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Ice_cream_in_cones.jpg?width=800 | Des glaces en cornet (photo : AlphaLemur, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:À gauche, à droite, tout droit… On apprend à demander son chemin, et à le comprendre !}}
 

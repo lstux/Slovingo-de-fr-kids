@@ -1,6 +1,6 @@
 # Série Haus (4/5) — Was machen wir zu Hause?
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Bedtime_reading.jpg?width=800 | Lecture au coucher, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Siebenschl%C3%A4fer_im_Fudatal_bei_Kassel_-Germany_2019.jpg?width=800 | Un loir gris (Siebenschläfer), le grand dormeur (photo : Unim0g KS, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:À la maison, on dort, on range, on ouvre la fenêtre… Et on apprend à dire non avec un seul petit mot.}}
 

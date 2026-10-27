@@ -1,6 +1,6 @@
 # Série Spiele (2/5) — Draußen spielen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (aire de jeux, balançoire, toboggan, enfants qui courent...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Schaukel%2C_Spielplatz_Holzacker%2C_T%C3%BCbingen-Hirschau.jpg?width=800 | Une balançoire de plein air (photo : Johannes Rössel, CC0, Wikimedia Commons)
 
 {{fr:On sort jouer dans la clairière ! Le foot, le jeu du chat, la balançoire, le toboggan…}}
 

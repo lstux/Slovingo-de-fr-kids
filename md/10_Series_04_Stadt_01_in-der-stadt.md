@@ -1,6 +1,6 @@
 # Série Stadt (1/5) — In der Stadt
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (rue piétonne avec boulangerie, enfants, vélos...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/West_European_Hedgehog_%28Erinaceus_europaeus%291.jpg?width=800 | Un hérisson d'Europe, comme Frau Stachel (photo : Hrald, CC BY-SA 3.0, Wikimedia Commons)
 
 {{fr:On part en ville, au bord de la forêt ! L'école, la boulangerie de Frau Stachel (une dame hérisson), le lac, le parc… et le glacier, bien sûr !}}
 

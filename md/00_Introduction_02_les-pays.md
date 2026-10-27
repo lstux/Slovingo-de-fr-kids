@@ -16,7 +16,7 @@
 
 ## 🇩🇪 Coin allemand
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Castle_Neuschwanstein.jpg?width=800 | Château de Neuschwanstein, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Castle_Neuschwanstein.jpg?width=800 | Château de Neuschwanstein (photo : Softeis, CC BY-SA 3.0, Wikimedia Commons)
 
 {{fr:Un vrai château de conte de fées, avec des tours pointues, perché sur une colline.}} C'est le château de {{Neuschwanstein}} !
 

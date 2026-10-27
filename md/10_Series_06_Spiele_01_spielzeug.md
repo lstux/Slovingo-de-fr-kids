@@ -1,6 +1,6 @@
 # Série Spiele (1/5) — Spielzeug
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (jouets variés, ballon, poupée, puzzle...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Holzspielzeug_7225_easyHDR.jpg?width=800 | Des jouets en bois (photo : Welt-der-Form, CC BY-SA 3.0, Wikimedia Commons)
 
 {{fr:Les jouets, chez Lea ! Le ballon, la poupée, le puzzle… Et comment dire avec quoi tu joues.}}
 

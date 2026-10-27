@@ -1,6 +1,6 @@
 # Introduction (4/5) — Comment ça se prononce ?
 
-@ https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Smiling_Red_Kids.jpg/960px-Smiling_Red_Kids.jpg | Enfants souriants, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/20150419_025_Kessel_Weerdbeemden_koekoek%2C_Common_Cuckoo%2C_Kuckuck%2C_Cuculus_canorus_%2817014010968%29.jpg?width=800 | Le coucou gris, qui chante son propre nom (photo : Jac. Janssen, CC BY 2.0, Wikimedia Commons)
 
 {{fr:Bonne nouvelle : en allemand, on lit presque comme c'est écrit ! Il suffit de retenir cinq astuces. Écoute bien, et répète à voix haute.}}
 

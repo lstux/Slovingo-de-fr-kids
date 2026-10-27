@@ -1,6 +1,6 @@
 # Kit de Survie (2/3) — Bitte und Entschuldigung
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Happy_child_finds_joy.jpg?width=800 | Enfant heureux, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Blumenwiese_am_Schwarzwald-Schw%C3%A4bische-Alb-Allg%C3%A4u-Weg_%28HW_5%29_-_panoramio.jpg?width=800 | Une prairie fleurie de la Forêt-Noire (photo : qwesy, CC BY 3.0, Wikimedia Commons)
 
 {{fr:Les mots qui ouvrent toutes les portes : s'il te plaît, pardon, oui, non !}}
 

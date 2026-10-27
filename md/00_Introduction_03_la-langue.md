@@ -1,6 +1,6 @@
 # Introduction (3/5) — Une langue déjà familière ?
 
-@ https://upload.wikimedia.org/wikipedia/commons/1/16/Europe_map_2020.png | Carte d'Europe 2020, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/European_hare_%28Lepus_europaeus%29_Marken_2.jpg?width=800 | Un lièvre d'Europe dans un champ (photo : Charles J. Sharp, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:On dit que l'allemand est difficile. Mais tu en connais déjà des bouts, sans le savoir !}}
 

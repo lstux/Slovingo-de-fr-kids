@@ -1,6 +1,6 @@
 # Série Stadt (extra) — Alles zusammen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (vue d'ensemble d'une petite ville allemande, place avec enfants...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Schwarzwald_Hinterzarten_01.jpg?width=800 | Hinterzarten, un village de la Forêt-Noire (photo : Cayambe, CC BY-SA 3.0, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Stadt, et on mélange les mots dans de nouvelles phrases !}}
 

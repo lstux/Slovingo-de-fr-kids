@@ -1,6 +1,6 @@
 # Introduction (5/5) — Compter jusqu'à 10
 
-@ TODO_img/enfant-qui-compte.jpg | TODO : choisir une image (enfant comptant sur ses doigts, ou objets à compter) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Ducks_in_a_row2.JPG?width=800 | Une file de canards : on les compte ? (photo : Alf van Beem, Public domain, Wikimedia Commons)
 
 {{fr:Dernière étape avant de vraiment commencer : les nombres ! Compte sur tes doigts, en allemand.}}
 

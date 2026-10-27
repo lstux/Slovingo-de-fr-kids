@@ -1,6 +1,6 @@
 # Série Familie (4/5) — Was machen wir zusammen?
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Children%27s_Games_.jpg?width=800 | Jeux d'enfants, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Red_fox_kits_playing_Bombay_Hook_%2836455%29.jpg?width=800 | De jeunes renards qui jouent ensemble (photo : Rhododendrites, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Qu'est-ce qu'on fait en famille, au milieu des sapins ? On joue, on chante, on rit… Et tu vas apprendre à dire ce que tu aimes faire.}}
 

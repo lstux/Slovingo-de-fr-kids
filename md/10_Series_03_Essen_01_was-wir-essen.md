@@ -1,6 +1,6 @@
 # Série Essen (1/5) — Was wir essen
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Breakfast%5E_-_geograph.org.uk_-_2358203.jpg?width=800 | Petit-déjeuner, Wikimedia Commons/geograph.org.uk, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Frisch_gebackener_Brotlaib_eines_Bauernbrots.jpg?width=800 | Un pain de campagne tout juste sorti du four (photo : Marc-Lautenbacher, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:À table ! Le pain, le lait, les légumes… et deux verbes indispensables : manger et boire.}}
 

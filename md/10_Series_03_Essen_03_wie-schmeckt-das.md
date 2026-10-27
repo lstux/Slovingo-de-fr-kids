@@ -1,6 +1,6 @@
 # Série Essen (3/5) — Wie schmeckt das?
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/019_Anhinga_eating_a_fish_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?width=800 | Anhinga mangeant un poisson, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Raspberries_%28Rubus_idaeus%29.jpg?width=800 | Des framboises, le péché mignon du renard (photo : Ivar Leidus, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Miam ou beurk ? Dire si c'est bon, sucré, chaud ou froid, et dire ce que tu aimes.}}
 

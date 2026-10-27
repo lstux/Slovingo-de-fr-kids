@@ -1,6 +1,6 @@
 # Série Spiele (3/5) — Brettspiele
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (jeu de société, dés, cartes à jouer...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/W%C3%BCrfel%2C_gemischt_--_2021_--_5577.jpg?width=800 | Des dés de toutes les couleurs (photo : Dietmar Rabich, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Les jeux de société ! Lancer le dé, gagner, perdre… et savoir à qui c'est le tour.}}
 

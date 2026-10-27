@@ -1,6 +1,6 @@
 # Série Haus (extra) — Alles zusammen
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Bedroom_Mitcham.jpg?width=800 | Chambre Mitcham, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Feldberg%2C_St._Wilhelmer_H%C3%BCtte_mit_Schauinsland_2.jpg?width=800 | La St. Wilhelmer Hütte, un refuge au pied du Feldberg (photo : Andreas Schwarzkopf, CC BY-SA 3.0, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Haus, et on mélange les mots dans de nouvelles phrases !}}
 

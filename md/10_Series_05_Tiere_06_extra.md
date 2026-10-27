@@ -1,6 +1,6 @@
 # Série Tiere (extra) — Alles zusammen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (collage d'animaux de la forêt et de la ferme...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Grand_t%C3%A9tras_femelle_DSCF5157.jpg?width=800 | Un grand tétras, oiseau emblématique de la Forêt-Noire (photo : Musicaline, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Tiere, et on mélange les mots dans de nouvelles phrases !}}
 

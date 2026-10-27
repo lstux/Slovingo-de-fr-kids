@@ -1,6 +1,6 @@
 # Série Tiere (2/5) — Auf dem Bauernhof
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (ferme, vache, cheval, poules...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Hinterwald_Cattle_Hinterzarten.jpg?width=800 | Une vache Hinterwälder, race de la Forêt-Noire (photo : Cayambe, CC BY-SA 3.0, Wikimedia Commons)
 
 {{fr:Les animaux de la ferme, au bord de la forêt ! Et une découverte rigolote : en allemand, les animaux ne font pas le même bruit qu'en français.}}
 

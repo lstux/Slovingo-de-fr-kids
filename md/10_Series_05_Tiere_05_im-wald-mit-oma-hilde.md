@@ -1,6 +1,6 @@
 # Série Tiere (5/5) — Im Wald mit Oma Hilde
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (chemin dans la Forêt-Noire, sentier entre les sapins...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Calluna_vulgaris_-_Panoramic_trail_-_Black_Forest_National_Park_01.jpg?width=800 | Un sentier de lande fleurie dans la Forêt-Noire (photo : H. Zell, CC BY-SA 3.0, Wikimedia Commons)
 
 {{fr:Une promenade en forêt avec Oma Hilde ! Écoute bien : tu connais presque tous les mots.}}
 

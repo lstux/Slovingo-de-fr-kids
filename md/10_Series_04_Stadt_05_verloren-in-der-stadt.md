@@ -1,6 +1,6 @@
 # Série Stadt (5/5) — Verlaufen in der Stadt
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfant qui cherche son chemin, glacier en ville...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/SWV_Wegweiser_WTBO066_Dietfurtbr%C3%BCcke.jpg?width=800 | Un panneau de randonnée : par où aller ? (photo : Karthoo, CC0, Wikimedia Commons)
 
 {{fr:Tu as rendez-vous avec Lea au glacier… mais tu ne sais plus où tu es ! Heureusement, tu croises Tom le blaireau, qui connaît tous les sentiers.}}
 

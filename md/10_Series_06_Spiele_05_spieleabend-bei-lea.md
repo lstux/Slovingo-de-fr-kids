@@ -1,6 +1,6 @@
 # Série Spiele (5/5) — Spieleabend bei Lea
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (soirée jeux de société entre enfants et grand-mère...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Brettspiel_Mensch_%C3%A4rger_dich_nicht.jpg?width=800 | Un jeu de société (Mensch ärgere dich nicht) (photo : Tetzemann, CC0, Wikimedia Commons)
 
 {{fr:Un soir de pluie dans la forêt, soirée jeux chez Lea ! Écoute bien : tu connais presque tous les mots.}}
 

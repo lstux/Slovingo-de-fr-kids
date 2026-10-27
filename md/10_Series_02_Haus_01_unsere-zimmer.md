@@ -1,6 +1,6 @@
 # Série Haus (1/5) — Unsere Zimmer
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Living_room_%28Unsplash%29.jpg?width=800 | Salon, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Morlokhof_Baiersbronn_-_Black_Forest-farmhouse.jpg?width=800 | Une ferme traditionnelle de la Forêt-Noire (photo : Roman Boed, CC BY 2.0, Wikimedia Commons)
 
 {{fr:On visite la maison de Lea, cachée sous les sapins ! La cuisine, le salon, la chambre… et une formule magique pour dire « il y a ».}}
 

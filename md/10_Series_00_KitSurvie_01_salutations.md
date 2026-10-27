@@ -1,6 +1,6 @@
 # Kit de Survie (1/3) — Hallo !
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Children_at_school_%288720604364%29.jpg?width=800 | Enfants à l'école, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Black_Forest-_Road_%2810561950824%29.jpg?width=800 | Un chemin dans la Forêt-Noire : c'est ici que tu rencontres Lea (photo : Roman Boed, CC BY 2.0, Wikimedia Commons)
 
 {{fr:Pour commencer : dire bonjour, demander comment ça va, et répondre. Touche les mots pour les écouter !}}
 
