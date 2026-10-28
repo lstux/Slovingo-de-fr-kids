@@ -354,6 +354,90 @@ _Une prairie de la Forêt-Noire_
 2. [B500 with meadow Black Forest.jpg](https://commons.wikimedia.org/wiki/File:B500_with_meadow_Black_Forest.jpg), Smilla Heckel, CC BY-SA 4.0, 6048×4024
 3. [Blühende Hochschwarzwaldwiese.jpg](https://commons.wikimedia.org/wiki/File:Bl%C3%BChende_Hochschwarzwaldwiese.jpg), Andy Heidinger, CC BY-SA 4.0, 3456×2304
 
+## Bandeaux de style (`img/style_<thème>.jpg`)
+
+Recadrés en 1200×220 px (largeur ramenée à 1200 px, bande centrée vers 60 % de la hauteur, comme le moteur). Pour changer : remplacer `img/style_<thème>.jpg` par une autre photo au même format, et mettre à jour `img/credits.md`.
+
+### default (Introduction, fiches hors série)
+
+_Panorama de la Forêt-Noire (Feldberg)_
+
+1. **retenue** : [Landschaft im Naturschutzgebiet Feldberg 02.jpg](https://commons.wikimedia.org/wiki/File:Landschaft_im_Naturschutzgebiet_Feldberg_02.jpg), Stephan Sprinz, CC BY-SA 4.0, 29564×5808
+2. [Panoramic trail at the Lothar Path - Northern Black Forest 01.jpg](https://commons.wikimedia.org/wiki/File:Panoramic_trail_at_the_Lothar_Path_-_Northern_Black_Forest_01.jpg), H. Zell, CC BY-SA 3.0, 14896×4811
+3. [Landappbw 523946 4871 Hochschwarzwald Panorama Schauinsland.jpg](https://commons.wikimedia.org/wiki/File:Landappbw_523946_4871_Hochschwarzwald_Panorama_Schauinsland.jpg), Klemens Maier, CC0, 1920×529
+
+Avant : [Hohenpeißenberg Panorama.jpg](https://commons.wikimedia.org/wiki/File:Hohenpei%C3%9Fenberg_Panorama.jpg)
+
+### basics (Kit de survie)
+
+_Une vallée boisée, vue du sentier_
+
+1. **retenue** : [Black Forest Trail Vista (1) (9540213785).jpg](https://commons.wikimedia.org/wiki/File:Black_Forest_Trail_Vista_(1)_(9540213785).jpg), Nicholas A. Tonelli, CC BY 2.0, 5184×2775
+2. [Schönwald im Schwarzwald Prisen 20180810.jpg](https://commons.wikimedia.org/wiki/File:Sch%C3%B6nwald_im_Schwarzwald_Prisen_20180810.jpg), Uoaei1, CC BY-SA 4.0, 6000×4000
+3. [Schönwald im Schwarzwald Paradieswanderweg 20180810.jpg](https://commons.wikimedia.org/wiki/File:Sch%C3%B6nwald_im_Schwarzwald_Paradieswanderweg_20180810.jpg), Uoaei1, CC BY-SA 4.0, 5630×3753
+
+Avant : [Beetzendorf Willkommen.jpg](https://commons.wikimedia.org/wiki/File:Beetzendorf_Willkommen.jpg)
+
+### family (Familie)
+
+_Des renardeaux_
+
+1. **retenue** : [Young Foxes 1 (7236364380).jpg](https://commons.wikimedia.org/wiki/File:Young_Foxes_1_(7236364380).jpg), Tony Hisgett, CC BY 2.0, 4731×2925
+2. [Mlade lisice u rupi.jpg](https://commons.wikimedia.org/wiki/File:Mlade_lisice_u_rupi.jpg), Divlja Srbija, CC BY-SA 4.0, 6000×4000
+3. [Badger cubs (1293583).jpg](https://commons.wikimedia.org/wiki/File:Badger_cubs_(1293583).jpg), Percy Benzie Abery (1876–1948), CC0, 6017×4267
+
+Avant : [Family Portrait.jpg](https://commons.wikimedia.org/wiki/File:Family_Portrait.jpg)
+
+### food (Essen)
+
+_Des myrtilles sauvages_
+
+1. **retenue** : [Vaccinium myrtillus - Bilberry 03.jpg](https://commons.wikimedia.org/wiki/File:Vaccinium_myrtillus_-_Bilberry_03.jpg), Zeynel Cebeci, CC BY-SA 4.0, 2250×1561
+2. [Raspberry - whole (Rubus idaeus).jpg](https://commons.wikimedia.org/wiki/File:Raspberry_-_whole_(Rubus_idaeus).jpg), Ivar Leidus, CC BY-SA 4.0, 5766×3840
+3. [Rubus idaeus (35674147583).jpg](https://commons.wikimedia.org/wiki/File:Rubus_idaeus_(35674147583).jpg), Björn S..., CC BY-SA 2.0, 5184×3456
+
+Avant : [Brotscheiben auf dem Frühstückstisch.jpg](https://commons.wikimedia.org/wiki/File:Brotscheiben_auf_dem_Fr%C3%BChst%C3%BCckstisch.jpg)
+
+### city (Stadt)
+
+_Le village de Schluchsee au bord du lac_
+
+1. **retenue** : [Schluchsee - Ortsteil Schluchsee 01.jpg](https://commons.wikimedia.org/wiki/File:Schluchsee_-_Ortsteil_Schluchsee_01.jpg), Llez, CC BY-SA 3.0, 20163×2805
+2. [Titisee Panorama.jpg](https://commons.wikimedia.org/wiki/File:Titisee_Panorama.jpg), Prosthetic Head, CC BY-SA 4.0, 6850×1730
+3. [Titisee Mist Pan.jpg](https://commons.wikimedia.org/wiki/File:Titisee_Mist_Pan.jpg), Prosthetic Head, CC BY-SA 4.0, 4376×1581
+
+Avant : [Fußgängerzone Rastatt.JPG](https://commons.wikimedia.org/wiki/File:Fu%C3%9Fg%C3%A4ngerzone_Rastatt.JPG)
+
+### animals (Tiere)
+
+_Des chevreuils dans un pré_
+
+1. **retenue** : [Metskits - Roe deer - Capreolus capreolus.jpg](https://commons.wikimedia.org/wiki/File:Metskits_-_Roe_deer_-_Capreolus_capreolus.jpg), Kristian Pikner, CC BY-SA 4.0, 3778×2366
+2. [Cervus elaphus Luc Viatour 2.jpg](https://commons.wikimedia.org/wiki/File:Cervus_elaphus_Luc_Viatour_2.jpg), Lviatour, CC BY-SA 3.0, 2556×1704
+3. [014 Wild Red Deer Switzerland Photo by Giles Laurent.jpg](https://commons.wikimedia.org/wiki/File:014_Wild_Red_Deer_Switzerland_Photo_by_Giles_Laurent.jpg), Giles Laurent, CC BY-SA 4.0, 6208×4141
+
+Avant : [Kuehe Weide Cows Pasture.jpg](https://commons.wikimedia.org/wiki/File:Kuehe_Weide_Cows_Pasture.jpg)
+
+### house (Haus)
+
+_Une ferme traditionnelle de la Forêt-Noire_
+
+1. **retenue** : [Vogtsbauernhof Gutach.jpg](https://commons.wikimedia.org/wiki/File:Vogtsbauernhof_Gutach.jpg), H. Zell, CC BY-SA 3.0, 4482×3118
+2. [Gutach, Freilichtmuseum Vogtsbauernhof, Hippenseppenhof 1.jpg](https://commons.wikimedia.org/wiki/File:Gutach,_Freilichtmuseum_Vogtsbauernhof,_Hippenseppenhof_1.jpg), Pierre Poschadel, CC BY-SA 4.0, 4896×3672
+3. [St. Peter (Hochschwarzwald) - panoramio (14).jpg](https://commons.wikimedia.org/wiki/File:St._Peter_(Hochschwarzwald)_-_panoramio_(14).jpg), pictures Jettcom, CC BY 3.0, 1600×1200
+
+Avant : [Nordisches Einfamilienhaus.jpg](https://commons.wikimedia.org/wiki/File:Nordisches_Einfamilienhaus.jpg)
+
+### games (Spiele)
+
+_Une prairie fleurie de la Forêt-Noire_
+
+1. **retenue** : [Wiese im Naturschutzgebiet Badberg (Lkr. Breisgau-Hochschwarzwald).jpg](https://commons.wikimedia.org/wiki/File:Wiese_im_Naturschutzgebiet_Badberg_(Lkr._Breisgau-Hochschwarzwald).jpg), Sokwu, CC BY-SA 4.0, 4592×3448
+2. [Poppies, Recknitz valley, Ribnitz-Damgarten (LRM 20200606 171832-Pano).jpg](https://commons.wikimedia.org/wiki/File:Poppies,_Recknitz_valley,_Ribnitz-Damgarten_(LRM_20200606_171832-Pano).jpg), Matti Blume, CC BY-SA 4.0, 4514×3110
+3. [Blühende Hochschwarzwaldwiese.jpg](https://commons.wikimedia.org/wiki/File:Bl%C3%BChende_Hochschwarzwaldwiese.jpg), Andy Heidinger, CC BY-SA 4.0, 3456×2304
+
+Avant : [Children Playing in Playground.jpg](https://commons.wikimedia.org/wiki/File:Children_Playing_in_Playground.jpg)
+
 ## Images remplacées (références précédentes des fiches)
 
 Ces lignes `@` figuraient dans les fiches avant la première passe, au cas où vous voudriez les retrouver :

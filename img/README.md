@@ -1,6 +1,6 @@
 # img/
 
-Photos de fond des bandeaux de fiche, une par thème visuel, nommées `style_<thème>.jpg`. Le thème d'un sous-groupe est choisi dans `lang.json` → `subgroup_themes`.
+Photos de fond des bandeaux de fiche, une par thème visuel, nommées `style_<thème>.jpg`. Format : JPEG de **1200×220 px** (paysage, recadré comme le bandeau : bande centrée vers 60 % de la hauteur), sans personnes, dans l'esprit Forêt-Noire. Le thème d'un sous-groupe est choisi dans `lang.json` → `subgroup_themes`.
 
 | Sous-groupe | Thème | Fichier |
 |-------------|-------|---------|

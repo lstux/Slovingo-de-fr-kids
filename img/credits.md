@@ -1,17 +1,21 @@
 # Crédits des images
 
-Licence et auteur : à compléter depuis la page de chaque fichier sur Wikimedia Commons.
+Toutes les images viennent de [Wikimedia Commons](https://commons.wikimedia.org/).
+
+## Bandeaux de style
+
+Fichiers `img/style_<thème>.jpg`, recadrés en 1200×220 px : ce sont des versions modifiées des photos d'origine (à indiquer pour les licences CC BY-SA). Les 2 autres candidates de chaque thème sont dans [docs/Illustrations-candidates.md](../docs/Illustrations-candidates.md).
 
 | Fichier | Nom d'origine | Source | Licence | Auteur |
 |---------|---------------|--------|---------|--------|
-| `style_default.jpg` | Hohenpeißenberg Panorama.jpg | https://commons.wikimedia.org/wiki/File:Hohenpei%C3%9Fenberg_Panorama.jpg | à vérifier | à vérifier |
-| `style_basics.jpg` | Beetzendorf Willkommen.jpg | https://commons.wikimedia.org/wiki/File:Beetzendorf_Willkommen.jpg | à vérifier | à vérifier |
-| `style_family.jpg` | Family Portrait.jpg | https://commons.wikimedia.org/wiki/File:Family_Portrait.jpg | à vérifier | à vérifier |
-| `style_house.jpg` | Nordisches Einfamilienhaus.jpg | https://commons.wikimedia.org/wiki/File:Nordisches_Einfamilienhaus.jpg | à vérifier | à vérifier |
-| `style_food.jpg` | Brotscheiben auf dem Frühstückstisch.jpg | https://commons.wikimedia.org/wiki/File:Brotscheiben_auf_dem_Fr%C3%BChst%C3%BCckstisch.jpg | à vérifier | à vérifier |
-| `style_city.jpg` | Fußgängerzone Rastatt.JPG | https://commons.wikimedia.org/wiki/File:Fu%C3%9Fg%C3%A4ngerzone_Rastatt.JPG | à vérifier | à vérifier |
-| `style_animals.jpg` | Kuehe Weide Cows Pasture.jpg | https://commons.wikimedia.org/wiki/File:Kuehe_Weide_Cows_Pasture.jpg | à vérifier | à vérifier |
-| `style_games.jpg` | Children Playing in Playground.jpg | https://commons.wikimedia.org/wiki/File:Children_Playing_in_Playground.jpg | à vérifier | à vérifier |
+| `style_default.jpg` | Landschaft im Naturschutzgebiet Feldberg 02.jpg | https://commons.wikimedia.org/wiki/File:Landschaft_im_Naturschutzgebiet_Feldberg_02.jpg | CC BY-SA 4.0 | Stephan Sprinz |
+| `style_basics.jpg` | Black Forest Trail Vista (1) (9540213785).jpg | https://commons.wikimedia.org/wiki/File:Black_Forest_Trail_Vista_(1)_(9540213785).jpg | CC BY 2.0 | Nicholas A. Tonelli |
+| `style_family.jpg` | Young Foxes 1 (7236364380).jpg | https://commons.wikimedia.org/wiki/File:Young_Foxes_1_(7236364380).jpg | CC BY 2.0 | Tony Hisgett |
+| `style_food.jpg` | Vaccinium myrtillus - Bilberry 03.jpg | https://commons.wikimedia.org/wiki/File:Vaccinium_myrtillus_-_Bilberry_03.jpg | CC BY-SA 4.0 | Zeynel Cebeci |
+| `style_city.jpg` | Schluchsee - Ortsteil Schluchsee 01.jpg | https://commons.wikimedia.org/wiki/File:Schluchsee_-_Ortsteil_Schluchsee_01.jpg | CC BY-SA 3.0 | Llez |
+| `style_animals.jpg` | Metskits - Roe deer - Capreolus capreolus.jpg | https://commons.wikimedia.org/wiki/File:Metskits_-_Roe_deer_-_Capreolus_capreolus.jpg | CC BY-SA 4.0 | Kristian Pikner |
+| `style_house.jpg` | Vogtsbauernhof Gutach.jpg | https://commons.wikimedia.org/wiki/File:Vogtsbauernhof_Gutach.jpg | CC BY-SA 3.0 | H. Zell |
+| `style_games.jpg` | Wiese im Naturschutzgebiet Badberg (Lkr. Breisgau-Hochschwarzwald).jpg | https://commons.wikimedia.org/wiki/File:Wiese_im_Naturschutzgebiet_Badberg_(Lkr._Breisgau-Hochschwarzwald).jpg | CC BY-SA 4.0 | Sokwu |
 
 ## Images des fiches (première passe)
 
