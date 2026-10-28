@@ -30,7 +30,7 @@
 | er spielt / sie spielt | il joue / elle joue |
 | wir spielen | on joue, nous jouons |
 
-{{fr:Et pour dire que tu aimes faire quelque chose, ajoute le petit mot « avec plaisir » juste après le verbe.}} → {{Ich spiele gern.}}
+{{fr:Et pour dire que tu aimes faire quelque chose, ajoute juste après le verbe le petit mot}} {{gern}}{{fr:, qui veut dire « avec plaisir ».}} → {{Ich spiele gern.}}
 
 ---
 

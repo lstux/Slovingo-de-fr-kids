@@ -21,7 +21,7 @@
 
 ## Plus grand que…
 
-{{fr:Pour comparer, on ajoute un petit bout à la fin du mot. Et pour dire « que », on utilise un petit mot tout simple.}}
+{{fr:Pour comparer, on ajoute}} {{er}} {{fr:à la fin du mot. Parfois, le a, le o ou le u prend aussi deux points. Et pour dire « que », on utilise}} {{als}}.
 
 | Deutsch | Français |
 |---------|----------|
@@ -58,7 +58,7 @@
 ! Der Dachs hat Streifen.
 > Le blaireau a des rayures.
 > Streifen = des rayures
-+ Sur le museau du blaireau, il y a de belles rayures noires et blanches.
++ Mot nouveau signalé : {{Streifen}} = des rayures. Sur le museau du blaireau, il y a de belles rayures noires et blanches.
 
 ---
 

@@ -125,9 +125,9 @@
 > hat = a
 > meinen Kuchen = mon gâteau
 
-! 🦊 Wir lachen zusammen! Ich habe auch einen Kuchen.
-> On rit ensemble ! Moi aussi, j'ai un gâteau.
-> Wir lachen zusammen = on rit ensemble
+! 🦊 Kein Problem! Ich habe auch einen Kuchen.
+> Pas de problème ! Moi aussi, j'ai un gâteau.
+> Kein Problem = pas de problème
 > Ich habe auch = moi aussi, j'ai
 > einen Kuchen = un gâteau
 

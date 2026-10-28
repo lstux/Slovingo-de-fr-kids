@@ -44,10 +44,11 @@
 
 ### Scène 1 — Un renard dans la forêt
 
-{{fr:Tom ne connaît pas encore le renard. Lea le présente !}}
+{{fr:Herr Falke, le garde du parc, ne vous connaît pas encore. Lea fait les présentations !}}
 
-! 🦡 Ist das ein Hase?
-> C'est un lièvre ?
+! 🦅 Guten Tag! Ist das ein Hase?
+> Bonjour ! C'est un lièvre ?
+> Guten Tag = bonjour
 > Ist das = est-ce
 > ein Hase = un lièvre
 
@@ -56,14 +57,14 @@
 > ich bin = je suis
 > ein Fuchs = un renard
 
-! 🦡 Ein Fuchs? Oh!
+! 🦅 Ein Fuchs? Oh!
 > Un renard ? Oh !
 > Ein Fuchs = un renard
 
-! 🐰 Kein Problem, Tom! Er isst gern Beeren.
-> Pas de problème, Tom ! Il aime manger des baies.
+! 🐰 Kein Problem, Herr Falke! Der Fuchs isst gern Beeren.
+> Pas de problème, Monsieur Falke ! Le renard aime manger des baies.
 > Kein Problem = pas de problème
-> Er isst gern = il aime manger
+> Der Fuchs isst gern = le renard aime manger
 > Beeren = des baies
 + Voilà pourquoi un lièvre peut être ami avec un renard !
 
@@ -112,10 +113,10 @@
 > Schau mal = regarde
 > Der Hirsch ist groß = le cerf est grand
 
-! 🦊 Der Hirsch ist größer als das Pferd!
-> Le cerf est plus grand que le cheval !
+! 🦊 Der Hirsch ist größer als das Wildschwein!
+> Le cerf est plus grand que le sanglier !
 > größer als = plus grand que
-> das Pferd = le cheval
+> das Wildschwein = le sanglier
 
 ! 🦡 Das Wildschwein ist stark, aber das Eichhörnchen ist lustig!
 > Le sanglier est fort, mais l'écureuil est drôle !
@@ -144,10 +145,9 @@
 > Bleibt = restez
 > auf dem Weg = sur le chemin
 
-! 🐰 Ja, Herr Falke! Schau mal, das Kaninchen springt!
-> Oui, Monsieur Falke ! Regarde, le lapin saute !
+! 🐰 Ja, Herr Falke! Das Kaninchen springt!
+> Oui, Monsieur Falke ! Le lapin saute !
 > Ja = oui
-> Schau mal = regarde
 > das Kaninchen = le lapin
 > springt = saute
 

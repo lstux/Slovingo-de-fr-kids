@@ -21,7 +21,7 @@
 
 ## Va tout droit !
 
-{{fr:Pour dire à un copain où aller, on prend le verbe aller à pied, sans la fin. Et pour une direction, on ajoute un petit mot devant gauche et droite.}}
+{{fr:Pour dire à un copain où aller, on prend le verbe aller à pied,}} {{gehen}}{{fr:, sans la fin :}} {{geh!}} {{fr:Et pour une direction, on met}} {{nach}} {{fr:devant gauche et droite.}}
 
 | Deutsch | Français |
 |---------|----------|

@@ -21,7 +21,7 @@
 
 ## Jouer avec…
 
-{{fr:Pour dire « jouer avec », on utilise le petit mot qui veut dire « avec », comme pour le bateau et le vélo. Retiens ces formules toutes faites.}}
+{{fr:Pour dire « jouer avec », on utilise}} {{mit}}{{fr:, comme pour le bateau et le vélo. Retiens ces formules toutes faites.}}
 
 | Deutsch | Français |
 |---------|----------|
@@ -71,4 +71,4 @@
 
 ## 🇩🇪 Coin allemand
 
-{{fr:Les célèbres petits personnages en plastique sont fabriqués en Allemagne, près de Nuremberg, depuis 1974 !}} → {{Playmobil}}
+{{fr:Les célèbres petits personnages en plastique ont été inventés en Allemagne, près de Nuremberg, en 1974 !}} → {{Playmobil}}

@@ -21,7 +21,7 @@
 
 ## Jouer au foot
 
-{{fr:Devant le nom d'un jeu, on ne met rien du tout : pas de « au » comme en français ! Mais avec un objet, on garde le petit mot qui veut dire « avec ».}}
+{{fr:Devant le nom d'un jeu, on ne met rien du tout : pas de « au » comme en français ! Mais avec un objet, on garde}} {{mit}}{{fr:, qui veut dire « avec ».}}
 
 | Deutsch | Français |
 |---------|----------|

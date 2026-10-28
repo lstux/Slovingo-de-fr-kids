@@ -35,7 +35,7 @@
 ! Der Hund frisst.
 > Le chien mange.
 > frisst = mange (animal)
-+ Les animaux qui parlent, comme Lea, Tom ou le renard, mangent comme toi : {{isst}}.
++ Les animaux qui parlent, comme Lea, Tom ou Oma Hilde, mangent comme toi : {{isst}}.
 
 ! Die Katze läuft schnell.
 > Le chat court vite.

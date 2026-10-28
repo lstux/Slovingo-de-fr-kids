@@ -21,7 +21,7 @@
 
 ## On joue ?
 
-{{fr:Pour proposer un jeu, commence ta question par cette formule. Et comme pour « savoir », le deuxième verbe va tout au bout.}} → {{Wollen wir spielen?}}
+{{fr:Pour proposer un jeu, commence ta question par}} {{Wollen wir}}{{fr:. Et comme avec}} {{ich kann}}{{fr:, le deuxième verbe va tout au bout.}} → {{Wollen wir spielen?}}
 
 {{fr:Et un verbe à ressort, comme ranger : un morceau saute à la fin de la phrase.}} → {{Machst du mit?}}, {{Ich mache mit!}}
 

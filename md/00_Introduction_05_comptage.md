@@ -8,7 +8,7 @@
 
 ## De 0 à 10
 
-| Chiffre | Deutsch |
+| Nombre | Deutsch |
 |---------|---------|
 | 0 | null |
 | 1 | eins |

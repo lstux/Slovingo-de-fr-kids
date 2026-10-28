@@ -179,25 +179,25 @@
       ]
     },
     {
-      "id": "listen-ist-das-ein-hase",
+      "id": "listen-guten-tag-ist-das-ein-hase",
       "type": "listen",
-      "l1": "C'est un lièvre ?",
-      "l2": "Ist das ein Hase?",
+      "l1": "Bonjour ! C'est un lièvre ?",
+      "l2": "Guten Tag! Ist das ein Hase?",
       "choices_l1": [
-        "C'est un lapin ?",
-        "C'est un renard ?",
-        "Je suis un lièvre."
+        "Bonjour ! C'est un lapin ?",
+        "Bonjour ! C'est un renard ?",
+        "Bonjour ! Je suis un lièvre."
       ]
     },
     {
-      "id": "listen-kein-problem-tom-er-isst-gern-beeren",
+      "id": "listen-kein-problem-herr-falke-der-fuchs-isst-gern-beeren",
       "type": "listen",
-      "l1": "Pas de problème, Tom ! Il aime manger des baies.",
-      "l2": "Kein Problem, Tom! Er isst gern Beeren.",
+      "l1": "Pas de problème, Monsieur Falke ! Le renard aime manger des baies.",
+      "l2": "Kein Problem, Herr Falke! Der Fuchs isst gern Beeren.",
       "choices_l1": [
-        "Pas de problème, Tom ! Il aime manger du pain.",
-        "Pas de problème, Lea ! Il aime manger des baies.",
-        "Pas de problème, Tom ! Elle aime manger des baies."
+        "Pas de problème, Monsieur Falke ! Le renard aime manger du pain.",
+        "Pas de problème, Tom ! Le renard aime manger des baies.",
+        "Pas de problème, Monsieur Falke ! Le lièvre aime manger des baies."
       ]
     },
     {
@@ -212,14 +212,14 @@
       ]
     },
     {
-      "id": "listen-der-hirsch-ist-gr-er-als-das-pferd",
+      "id": "listen-der-hirsch-ist-gr-er-als-das-wildschwein",
       "type": "listen",
-      "l1": "Le cerf est plus grand que le cheval !",
-      "l2": "Der Hirsch ist größer als das Pferd!",
+      "l1": "Le cerf est plus grand que le sanglier !",
+      "l2": "Der Hirsch ist größer als das Wildschwein!",
       "choices_l1": [
-        "Le cerf est plus petit que le cheval !",
-        "Le cheval est plus grand que le cerf !",
-        "Le cerf est plus grand que le sanglier !"
+        "Le cerf est plus petit que le sanglier !",
+        "Le sanglier est plus grand que le cerf !",
+        "Le cerf est plus grand que le cheval !"
       ]
     },
     {
@@ -234,14 +234,14 @@
       ]
     },
     {
-      "id": "listen-ja-herr-falke-schau-mal-das-kaninchen-springt",
+      "id": "listen-ja-herr-falke-das-kaninchen-springt",
       "type": "listen",
-      "l1": "Oui, Monsieur Falke ! Regarde, le lapin saute !",
-      "l2": "Ja, Herr Falke! Schau mal, das Kaninchen springt!",
+      "l1": "Oui, Monsieur Falke ! Le lapin saute !",
+      "l2": "Ja, Herr Falke! Das Kaninchen springt!",
       "choices_l1": [
-        "Oui, Monsieur Falke ! Regarde, le lapin court !",
-        "Oui, Monsieur Falke ! Regarde, le renard saute !",
-        "Non, Monsieur Falke ! Regarde, le lapin saute !"
+        "Oui, Monsieur Falke ! Le lapin court !",
+        "Oui, Monsieur Falke ! Le renard saute !",
+        "Non, Monsieur Falke ! Le lapin saute !"
       ]
     },
     {
@@ -319,14 +319,14 @@
       "show_translation": true
     },
     {
-      "id": "blank-kein-problem-tom-er-isst-gern-beeren",
+      "id": "blank-kein-problem-herr-falke-der-fuchs-isst-gern-beeren",
       "type": "fill-blank",
-      "l1": "Pas de problème, Tom ! Il aime manger des baies.",
-      "l2": "Kein Problem, Tom! Er isst gern Beeren.",
+      "l1": "Pas de problème, Monsieur Falke ! Le renard aime manger des baies.",
+      "l2": "Kein Problem, Herr Falke! Der Fuchs isst gern Beeren.",
       "missing_l1": "baies",
       "missing_l2": "Beeren",
-      "blank_index_l1": 9,
-      "blank_index_l2": 6,
+      "blank_index_l1": 11,
+      "blank_index_l2": 8,
       "choices_l1": [
         "pain",
         "fruits",
@@ -361,16 +361,16 @@
       "show_translation": true
     },
     {
-      "id": "order-der-hirsch-ist-gr-er-als-das-pferd",
+      "id": "order-der-hirsch-ist-gr-er-als-das-wildschwein",
       "type": "order",
-      "l1": "Le cerf est plus grand que le cheval !",
-      "l2": "Der Hirsch ist größer als das Pferd!",
+      "l1": "Le cerf est plus grand que le sanglier !",
+      "l2": "Der Hirsch ist größer als das Wildschwein!",
       "tokens_l1": [
         "Le cerf",
         "est",
         "plus grand",
         "que",
-        "le cheval !"
+        "le sanglier !"
       ],
       "tokens_l2": [
         "Der",
@@ -379,26 +379,24 @@
         "größer",
         "als",
         "das",
-        "Pferd!"
+        "Wildschwein!"
       ]
     },
     {
-      "id": "order-ja-herr-falke-schau-mal-das-kaninchen-springt",
+      "id": "order-ja-herr-falke-das-kaninchen-springt",
       "type": "order",
-      "l1": "Oui, Monsieur Falke ! Regarde, le lapin saute !",
-      "l2": "Ja, Herr Falke! Schau mal, das Kaninchen springt!",
+      "l1": "Oui, Monsieur Falke ! Le lapin saute !",
+      "l2": "Ja, Herr Falke! Das Kaninchen springt!",
       "tokens_l1": [
         "Oui,",
         "Monsieur Falke !",
-        "Regarde,",
-        "le lapin",
+        "Le lapin",
         "saute !"
       ],
       "tokens_l2": [
         "Ja,",
         "Herr Falke!",
-        "Schau mal,",
-        "das Kaninchen",
+        "Das Kaninchen",
         "springt!"
       ]
     },
@@ -413,14 +411,14 @@
         "vole !",
         "Il est",
         "rapide !",
-        "Oui,",
-        "Monsieur",
-        "Falke",
-        "!",
-        "Regarde,",
-        "le",
-        "lapin",
-        "saute",
+        "Moi,",
+        "j'aime",
+        "bien",
+        "les",
+        "sangliers.",
+        "Ils",
+        "sont",
+        "forts",
         "!"
       ],
       "tokens_l2": [
@@ -429,29 +427,27 @@
         "fliegt!",
         "Er ist",
         "schnell!",
-        "Ja,",
-        "Herr",
-        "Falke!",
-        "Schau",
-        "mal,",
-        "das",
-        "Kaninchen",
-        "springt!"
+        "Ich",
+        "mag",
+        "Wildschweine.",
+        "Sie",
+        "sind",
+        "stark!"
       ]
     },
     {
       "id": "match-cartes-1",
       "type": "match",
       "l1": [
-        "C'est un lièvre ?",
+        "Bonjour ! C'est un lièvre ?",
         "Un renard ? Oh !",
-        "Oui, Monsieur Falke ! Regarde, le lapin saute !",
+        "Oui, Monsieur Falke ! Le lapin saute !",
         "Bien, les enfants ! À bientôt !"
       ],
       "l2": [
-        "Ist das ein Hase?",
+        "Guten Tag! Ist das ein Hase?",
         "Ein Fuchs? Oh!",
-        "Ja, Herr Falke! Schau mal, das Kaninchen springt!",
+        "Ja, Herr Falke! Das Kaninchen springt!",
         "Gut, Kinder! Bis bald!"
       ]
     },

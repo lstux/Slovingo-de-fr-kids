@@ -26,7 +26,7 @@
 | ich mag | j'aime bien |
 | magst du? | tu aimes ? |
 
-{{fr:Et pour dire ce que tu n'aimes pas, ajoute le petit mot du Kit de Survie, qui veut dire « pas de ».}} → {{Ich mag kein Gemüse.}}
+{{fr:Et pour dire ce que tu n'aimes pas, ajoute}} {{kein}}{{fr:, le petit mot du Kit de Survie qui veut dire « pas de ».}} → {{Ich mag kein Gemüse.}}
 
 ---
 
@@ -34,8 +34,7 @@
 
 ! Das schmeckt gut!
 > C'est bon !
-> Das schmeckt = ça a le goût
-> gut = bon
+> Das schmeckt gut = ça a bon goût
 
 ! Lecker!
 > Trop bon !

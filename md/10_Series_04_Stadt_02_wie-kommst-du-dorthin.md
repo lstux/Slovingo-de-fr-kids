@@ -21,7 +21,7 @@
 
 ## Rouler ou marcher ?
 
-{{fr:Pour tout ce qui se conduit ou se pilote (bateau, vélo, voiture), on utilise un verbe. Pour marcher, on en utilise un autre. Et « en bateau » ou « à vélo » se disent avec le même petit mot, qui veut dire « avec ».}}
+{{fr:Quand on roule ou qu'on navigue (en bateau, à vélo, en voiture), on utilise}} {{fahren}}{{fr:. Quand on marche, on utilise}} {{gehen}}{{fr:. Et « en bateau » ou « à vélo » se disent avec}} {{mit}}{{fr:, qui veut dire « avec ».}}
 
 | Deutsch | Français |
 |---------|----------|

@@ -62,7 +62,7 @@
 > Les enfants sont petits.
 > Die Kinder = les enfants
 > sind = sont
-+ {{klein}} ne change jamais : petit, petite, petits… c'est toujours {{klein}} !
++ Après « est » ou « sont », {{klein}} ne change jamais : petit, petite, petits… c'est toujours {{klein}} !
 
 ! Mein Bruder ist groß, aber meine Schwester ist klein.
 > Mon frère est grand, mais ma sœur est petite.

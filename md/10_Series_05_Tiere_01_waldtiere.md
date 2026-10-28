@@ -21,7 +21,7 @@
 
 ## Une fin de mot mignonne
 
-{{fr:Écoute la fin de ces deux mots : elle veut dire « petit ». Et c'est un cadeau : ces mots ont toujours le même petit mot devant, et ils ne changent pas au pluriel !}} → {{das Eichhörnchen}}, {{die Eichhörnchen}}
+{{fr:Écoute la fin de ces deux mots :}} {{chen}}{{fr:. Elle veut dire « petit ». Et c'est un cadeau : ces mots ont toujours}} {{das}} {{fr:devant. Et au pluriel, le mot lui-même ne change pas !}} → {{das Eichhörnchen}}, {{die Eichhörnchen}}
 
 | Deutsch | Français |
 |---------|----------|
@@ -73,9 +73,9 @@
 
 ## On révise
 
-! Mein Bruder ist ein Hase, aber ich bin ein Fuchs.
-> Mon frère est un lièvre, mais moi, je suis un renard.
-> Mein Bruder ist = mon frère est
+! Lea ist ein Hase, aber ich bin ein Fuchs.
+> Lea est un lièvre, mais moi, je suis un renard.
+> Lea ist = Lea est
 > ich bin = je suis
 
 ! Der Fisch ist im Wasser.

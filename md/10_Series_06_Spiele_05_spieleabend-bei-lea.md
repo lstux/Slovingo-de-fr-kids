@@ -54,6 +54,7 @@
 ! 🦊 Und… ich gewinne! Juhu!
 > Et… je gagne ! Youpi !
 > Juhu = youpi
++ Mot nouveau signalé : {{Juhu}} = youpi.
 
 ! 🦡 Glückwunsch, [USER_NAME]! Noch einmal?
 > Bravo, [USER_NAME] ! On en refait une ?

@@ -21,7 +21,7 @@
 
 ## Je sais…
 
-{{fr:Ce verbe veut dire « pouvoir », mais aussi « savoir faire ». Et le deuxième verbe part tout au bout de la phrase !}} → {{Ich kann schwimmen.}}
+{{fr:Le verbe}} {{können}} {{fr:veut dire « pouvoir », mais aussi « savoir faire ». Et le deuxième verbe part tout au bout de la phrase !}} → {{Ich kann schwimmen.}}
 
 | Deutsch | Français |
 |---------|----------|

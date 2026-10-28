@@ -77,7 +77,7 @@
 
 ### Scène 2 — On commande
 
-{{fr:Tom le blaireau a très faim. À la boulangerie de Frau Stachel, tout le monde commande !}}
+{{fr:Tom le blaireau a très faim. À l'auberge du village, tout le monde commande !}}
 
 ! 🦡 Ich habe Hunger! Ich nehme Kartoffeln, bitte.
 > J'ai faim ! Je prends des pommes de terre, s'il te plaît.
@@ -149,7 +149,7 @@
 > Ich bin satt = je n'ai plus faim
 
 ! 🐰 Danke, Oma Hilde! Das Mittagessen ist lecker!
-> Merci, mamie Hilde ! Le déjeuner est trop bon !
+> Merci, Mamie Hilde ! Le déjeuner est trop bon !
 > Das Mittagessen = le déjeuner
 > lecker = trop bon
 

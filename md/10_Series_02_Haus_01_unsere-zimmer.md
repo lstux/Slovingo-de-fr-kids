@@ -23,7 +23,7 @@
 
 {{fr:Pour dire « il y a », on utilise une formule qui ne change jamais, qu'il y ait une chose ou beaucoup :}} → {{es gibt}}
 
-{{fr:Et une astuce : quand des mots sont collés, c'est le dernier qui commande. Toutes ces pièces finissent pareil, alors elles gardent le même petit mot devant.}} → {{das Zimmer}}, {{das Wohnzimmer}}, {{das Schlafzimmer}}
+{{fr:Une astuce pour le petit mot devant. Quand deux mots sont collés pour en faire un seul, c'est le dernier morceau qui décide. Une pièce, c'est}} {{das Zimmer}}{{fr:. Alors toutes les pièces qui finissent par ce mot gardent le même petit mot devant :}} {{das Wohnzimmer}}, {{das Schlafzimmer}}, {{das Badezimmer}}.
 
 ---
 

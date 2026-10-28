@@ -30,8 +30,8 @@
 > Regarde, un cerf !
 + Mot nouveau signalé : {{Schau mal}} = regarde.
 
-! 🦊 Er ist so groß! Größer als ein Pferd!
-> Il est tellement grand ! Plus grand qu'un cheval !
+! 🦊 Er ist so groß! Größer als ein Reh!
+> Il est tellement grand ! Plus grand qu'un chevreuil !
 > so groß = tellement grand
 
 ! 🐰 Und das Wildschwein schläft.
@@ -56,9 +56,10 @@
 ! 🦡 Schau mal, die Enten schwimmen!
 > Regarde, les canards nagent !
 > die Enten = les canards
++ Mot nouveau signalé : {{die Enten}} = les canards.
 
 ! 🦊 Danke, Oma Hilde! Der Wald ist super!
-> Merci, Oma Hilde ! La forêt, c'est super !
+> Merci, Mamie Hilde ! La forêt, c'est super !
 
 ! 🦉 Kommt, wir gehen in die Eisdiele!
 > Venez, on va au glacier !
