@@ -9,7 +9,7 @@ Fichiers `img/style_<thème>.jpg`, recadrés en 1200×220 px : ce sont des versi
 | Fichier | Nom d'origine | Source | Licence | Auteur |
 |---------|---------------|--------|---------|--------|
 | `style_default.jpg` | Landschaft im Naturschutzgebiet Feldberg 02.jpg | https://commons.wikimedia.org/wiki/File:Landschaft_im_Naturschutzgebiet_Feldberg_02.jpg | CC BY-SA 4.0 | Stephan Sprinz |
-| `style_basics.jpg` | Black Forest Trail Vista (1) (9540213785).jpg | https://commons.wikimedia.org/wiki/File:Black_Forest_Trail_Vista_(1)_(9540213785).jpg | CC BY 2.0 | Nicholas A. Tonelli |
+| `style_basics.jpg` | Panoramic trail at the Lothar Path - Northern Black Forest 01.jpg | https://commons.wikimedia.org/wiki/File:Panoramic_trail_at_the_Lothar_Path_-_Northern_Black_Forest_01.jpg | CC BY-SA 3.0 | H. Zell |
 | `style_family.jpg` | Young Foxes 1 (7236364380).jpg | https://commons.wikimedia.org/wiki/File:Young_Foxes_1_(7236364380).jpg | CC BY 2.0 | Tony Hisgett |
 | `style_food.jpg` | Vaccinium myrtillus - Bilberry 03.jpg | https://commons.wikimedia.org/wiki/File:Vaccinium_myrtillus_-_Bilberry_03.jpg | CC BY-SA 4.0 | Zeynel Cebeci |
 | `style_city.jpg` | Schluchsee - Ortsteil Schluchsee 01.jpg | https://commons.wikimedia.org/wiki/File:Schluchsee_-_Ortsteil_Schluchsee_01.jpg | CC BY-SA 3.0 | Llez |

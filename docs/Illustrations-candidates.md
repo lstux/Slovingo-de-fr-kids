@@ -370,9 +370,9 @@ Avant : [Hohenpeißenberg Panorama.jpg](https://commons.wikimedia.org/wiki/File:
 
 ### basics (Kit de survie)
 
-_Une vallée boisée, vue du sentier_
+_Un sentier de la Forêt-Noire avec vue sur les collines_
 
-1. **retenue** : [Black Forest Trail Vista (1) (9540213785).jpg](https://commons.wikimedia.org/wiki/File:Black_Forest_Trail_Vista_(1)_(9540213785).jpg), Nicholas A. Tonelli, CC BY 2.0, 5184×2775
+1. **retenue** : [Panoramic trail at the Lothar Path - Northern Black Forest 01.jpg](https://commons.wikimedia.org/wiki/File:Panoramic_trail_at_the_Lothar_Path_-_Northern_Black_Forest_01.jpg), H. Zell, CC BY-SA 3.0, 14896×4811
 2. [Schönwald im Schwarzwald Prisen 20180810.jpg](https://commons.wikimedia.org/wiki/File:Sch%C3%B6nwald_im_Schwarzwald_Prisen_20180810.jpg), Uoaei1, CC BY-SA 4.0, 6000×4000
 3. [Schönwald im Schwarzwald Paradieswanderweg 20180810.jpg](https://commons.wikimedia.org/wiki/File:Sch%C3%B6nwald_im_Schwarzwald_Paradieswanderweg_20180810.jpg), Uoaei1, CC BY-SA 4.0, 5630×3753
 
