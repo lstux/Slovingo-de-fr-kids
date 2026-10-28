@@ -17,6 +17,12 @@ Fichiers `img/style_<thème>.jpg`, recadrés en 1200×220 px : ce sont des versi
 | `style_house.jpg` | Vogtsbauernhof Gutach.jpg | https://commons.wikimedia.org/wiki/File:Vogtsbauernhof_Gutach.jpg | CC BY-SA 3.0 | H. Zell |
 | `style_games.jpg` | Wiese im Naturschutzgebiet Badberg (Lkr. Breisgau-Hochschwarzwald).jpg | https://commons.wikimedia.org/wiki/File:Wiese_im_Naturschutzgebiet_Badberg_(Lkr._Breisgau-Hochschwarzwald).jpg | CC BY-SA 4.0 | Sokwu |
 
+## Image de fond de la carte (accueil)
+
+| Fichier | Source | Auteur | Licence |
+|---------|--------|--------|---------|
+| `map_background.jpg` | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
+
 ## Images des fiches (première passe)
 
 Photos Wikimedia Commons insérées par `@` dans chaque fiche (via `Special:FilePath`). Les 2 autres candidates sont dans [docs/Illustrations-candidates.md](../docs/Illustrations-candidates.md).
