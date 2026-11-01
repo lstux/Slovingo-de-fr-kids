@@ -17,6 +17,7 @@
     "css_class": "col-native"
   },
   "site": {
+    "status": "build",
     "title": "Fuchsbau - apprends l'allemand",
     "short_name": "Fuchsbau",
     "description": "Apprenez l'allemand de manière ludique — fiches, dialogues et exercices",
