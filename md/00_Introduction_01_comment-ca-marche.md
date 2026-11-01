@@ -1,6 +1,6 @@
 # Introduction (1/5) — Comment ça marche ?
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Vulpes_vulpes_Mallnitz_01.jpg?width=800 | Un renard roux dans les montagnes d'Autriche (photo : Uoaei1, CC BY-SA 4.0, Wikimedia Commons)
+@ img/illus_00_couverture.jpg | Fuchsbau, le terrier du renard : toi, Lea et Tom dans la Forêt-Noire. Illustration générée avec Google Gemini, d'après une photo de Stephan Sprinz (Wikimedia Commons, CC BY-SA 4.0)
 
 ## Salut ! Comment tu t'appelles ?
 

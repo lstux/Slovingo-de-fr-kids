@@ -8,6 +8,7 @@ Fichiers `img/style_<thème>.jpg`, recadrés en 1200×220 px : ce sont des versi
 
 | Fichier | Nom d'origine | Source | Licence | Auteur |
 |---------|---------------|--------|---------|--------|
+| `illus_00_couverture.jpg` (intro 01, illustration IA) | Landschaft im Naturschutzgebiet Feldberg 02.jpg | https://commons.wikimedia.org/wiki/File:Landschaft_im_Naturschutzgebiet_Feldberg_02.jpg | CC BY-SA 4.0 (œuvre dérivée, générée avec Google Gemini) | Stephan Sprinz |
 | `style_default.jpg` | Landschaft im Naturschutzgebiet Feldberg 02.jpg | https://commons.wikimedia.org/wiki/File:Landschaft_im_Naturschutzgebiet_Feldberg_02.jpg | CC BY-SA 4.0 | Stephan Sprinz |
 | `style_basics.jpg` | Panoramic trail at the Lothar Path - Northern Black Forest 01.jpg | https://commons.wikimedia.org/wiki/File:Panoramic_trail_at_the_Lothar_Path_-_Northern_Black_Forest_01.jpg | CC BY-SA 3.0 | H. Zell |
 | `style_family.jpg` | Young Foxes 1 (7236364380).jpg | https://commons.wikimedia.org/wiki/File:Young_Foxes_1_(7236364380).jpg | CC BY 2.0 | Tony Hisgett |
