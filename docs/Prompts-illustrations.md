@@ -31,7 +31,7 @@ Style : dessin animé 2D classique, animaux debout qui portent des vêtements, f
 
 ## Planche des héros (renard, Lea, Tom)
 
-**À joindre** : `fox-reference.png`, `andrea-reference.png`, puis `planche-heros.jpg` (de Zajko).
+**À joindre** : `fox-reference.png`, `andrea-reference.png` (repo friends, `esp32/zajko-quest/art/characters/`), puis `planche-heros.jpg` de Zajko (repo sk-fr-kids, `docs/illustrations/`).
 
 ```
 Character model sheet for a friendly animated film for children, on a plain light background. Three young animal characters standing side by side at the same scale, each shown front view and three-quarter view, full body, with a few facial expressions (smiling, surprised, shy). They are friends living in the Black Forest in Germany.
