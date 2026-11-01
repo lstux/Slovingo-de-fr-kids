@@ -1,6 +1,7 @@
 {
   "target_lang": {
     "code": "de",
+    "group_label": "Allemand - Deutsch",
     "name": "Deutsch",
     "tts_code": "de-DE",
     "flag": "🇩🇪",
@@ -19,6 +20,9 @@
     "title": "Fuchsbau - apprends l'allemand",
     "short_name": "Fuchsbau",
     "description": "Apprenez l'allemand de manière ludique — fiches, dialogues et exercices",
+    "cover": "img/map_background.jpg",
+    "pitch": "Tu es un renard et tu retrouves Lea, un lièvre de la Forêt-Noire, dans ton terrier. Fiches, dialogues et exercices pour apprendre l'allemand en t'amusant.",
+    "audience": "Dès 8 ans",
     "theme_color": "#003399",
     "icon_style": "kids",
     "storage_prefix": "de-fr-kids",
