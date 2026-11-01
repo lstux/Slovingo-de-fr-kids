@@ -49,7 +49,27 @@
     "tiere": "Tiere",
     "spiele": "Spiele"
   },
+  "story": {
+    "title": "L'histoire en entier",
+    "subtitle": "Die ganze Geschichte",
+    "intro": "Tous les dialogues du cours, les uns après les autres, avec leurs traductions. Touche une bulle pour écouter, et le bouton « Écouter le chapitre » pour lire un chapitre en entier !",
+    "headings": [
+      "Le dialogue",
+      "Scène *"
+    ],
+    "chapter_label": "Chapitre",
+    "show_translations": "Afficher les traductions",
+    "hide_translations": "Masquer les traductions",
+    "translations_default": true,
+    "back": "Retour au cours",
+    "listen_line": "Écouter",
+    "listen_chapter": "Écouter le chapitre",
+    "stop_listening": "Pause"
+  },
   "ui": {
+    "change_course": "Changer de cours",
+    "read_story": "📖 Lire toute l'histoire",
+    "voice_other": "Autres voix",
     "home": "Accueil",
     "exercises": "Exercices",
     "sheet": "Fiche",
