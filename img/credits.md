@@ -61,7 +61,7 @@ Photos Wikimedia Commons insérées par `@` dans chaque fiche (via `Special:File
 | 10_Series_04_Stadt_02_wie-kommst-du-dorthin | [Titisee, Boote.jpg](https://commons.wikimedia.org/wiki/File:Titisee,_Boote.jpg) | Gerd Fahrenhorst | CC BY 4.0 |
 | 10_Series_04_Stadt_03_wo-ist-die-eisdiele | [Ice cream in cones.jpg](https://commons.wikimedia.org/wiki/File:Ice_cream_in_cones.jpg) | AlphaLemur | CC BY-SA 4.0 |
 | 10_Series_04_Stadt_04_was-machen-wir-in-der-stadt | [Euro coins and banknotes.jpg](https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes.jpg) | Avij | Public domain |
-| 10_Series_04_Stadt_05_verloren-in-der-stadt | [SWV Wegweiser WTBO066 Dietfurtbrücke.jpg](https://commons.wikimedia.org/wiki/File:SWV_Wegweiser_WTBO066_Dietfurtbr%C3%BCcke.jpg) | Karthoo | CC0 |
+| 10_Series_04_Stadt_05_verloren-in-der-stadt (`illus_04_stadt.jpg`, illustration IA) | [SWV Wegweiser WTBO066 Dietfurtbrücke.jpg](https://commons.wikimedia.org/wiki/File:SWV_Wegweiser_WTBO066_Dietfurtbr%C3%BCcke.jpg) | Karthoo | CC0 (œuvre dérivée, générée avec Google Gemini) |
 | 10_Series_04_Stadt_06_extra | [Schwarzwald Hinterzarten 01.jpg](https://commons.wikimedia.org/wiki/File:Schwarzwald_Hinterzarten_01.jpg) | Cayambe | CC BY-SA 3.0 |
 | 10_Series_05_Tiere_01_waldtiere | [Red squirrel (21808).jpg](https://commons.wikimedia.org/wiki/File:Red_squirrel_(21808).jpg) | Rhododendrites | CC BY-SA 4.0 |
 | 10_Series_05_Tiere_02_auf-dem-bauernhof | [Hinterwald Cattle Hinterzarten.jpg](https://commons.wikimedia.org/wiki/File:Hinterwald_Cattle_Hinterzarten.jpg) | Cayambe | CC BY-SA 3.0 |
