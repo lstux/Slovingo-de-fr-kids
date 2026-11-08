@@ -55,7 +55,7 @@ Photos Wikimedia Commons insérées par `@` dans chaque fiche (via `Special:File
 | 10_Series_03_Essen_02_ich-habe-hunger | [Red squirrel eating hazel nut.jpg](https://commons.wikimedia.org/wiki/File:Red_squirrel_eating_hazel_nut.jpg) | Evas-naturfotografie | CC BY-SA 4.0 |
 | 10_Series_03_Essen_03_wie-schmeckt-das | [Raspberries (Rubus idaeus).jpg](https://commons.wikimedia.org/wiki/File:Raspberries_(Rubus_idaeus).jpg) | Ivar Leidus | CC BY-SA 4.0 |
 | 10_Series_03_Essen_04_die-gerichte | [Brezel l Bäckerei-Raisch.jpg](https://commons.wikimedia.org/wiki/File:Brezel_l_B%C3%A4ckerei-Raisch.jpg) | LenaRaisch | CC BY-SA 4.0 |
-| 10_Series_03_Essen_05_mittagessen-bei-oma-hilde | [Eurasian eagle-owl (44088).jpg](https://commons.wikimedia.org/wiki/File:Eurasian_eagle-owl_(44088).jpg) | Rhododendrites | CC BY-SA 4.0 |
+| 10_Series_03_Essen_05_mittagessen-bei-oma-hilde (`illus_03_essen.jpg`, illustration IA) | [Eurasian eagle-owl (44088).jpg](https://commons.wikimedia.org/wiki/File:Eurasian_eagle-owl_(44088).jpg) | Rhododendrites | CC BY-SA 4.0 (œuvre dérivée, générée avec Google Gemini) |
 | 10_Series_03_Essen_06_extra | [Honigglas Einheitsglas des Deutschen Imkerbundes Ansicht.jpg](https://commons.wikimedia.org/wiki/File:Honigglas_Einheitsglas_des_Deutschen_Imkerbundes_Ansicht.jpg) | Fonzie | CC BY-SA 4.0 |
 | 10_Series_04_Stadt_01_in-der-stadt | [West European Hedgehog (Erinaceus europaeus)1.jpg](https://commons.wikimedia.org/wiki/File:West_European_Hedgehog_(Erinaceus_europaeus)1.jpg) | Hrald | CC BY-SA 3.0 |
 | 10_Series_04_Stadt_02_wie-kommst-du-dorthin | [Titisee, Boote.jpg](https://commons.wikimedia.org/wiki/File:Titisee,_Boote.jpg) | Gerd Fahrenhorst | CC BY 4.0 |

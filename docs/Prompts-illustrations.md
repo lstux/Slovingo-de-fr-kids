@@ -133,9 +133,9 @@ Fiche `10_Series_04_Stadt_05_verloren-in-der-stadt.md` → `img/illus_04_stadt.j
 ```
 Use the attached model sheet for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
 
-Scene: A forest path at a crossroads, with a wooden signpost with arrows pointing in several directions. The young fox stands in front of it holding an open map, looking lost; Tom the badger, who knows every trail, points confidently down the path with a big smile. Lea's ice-cream parlour is not shown. A small sunlit village can be seen behind the trees.
+Scene: A forest path at a crossroads, with a wooden signpost with arrows pointing in several directions. The young fox stands in front of it holding an open map, looking lost; Tom the badger, who knows every trail, points confidently down the path with a big smile. A small sunlit village can be seen behind the trees. Only the fox and Tom are in the scene. The signpost arrows are blank.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Lea wears her mint T-shirt, yellow satchel and red sneakers.
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
 ```
 
 ### Tiere 05 · Im Wald mit Oma Hilde

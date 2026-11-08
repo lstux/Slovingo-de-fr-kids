@@ -1,6 +1,6 @@
 # Série Essen (5/5) — Mittagessen bei Oma Hilde
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Eurasian_eagle-owl_%2844088%29.jpg?width=800 | Un hibou grand-duc, comme Oma Hilde (photo : Rhododendrites, CC BY-SA 4.0, Wikimedia Commons)
+@ img/illus_03_essen.jpg | Mittagessen bei Oma Hilde : le plat arrive, et tout le monde a faim ! Illustration générée avec Google Gemini, d'après une photo de Rhododendrites (Wikimedia Commons, CC BY-SA 4.0)
 
 {{fr:Dimanche midi, on déjeune chez Oma Hilde, la mamie hibou de Lea ! Écoute bien : tu connais presque tous les mots.}}
 
