@@ -1,6 +1,6 @@
 # Kit de Survie (3/3) — Erste Begegnung
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Red_Fox_drinking_from_a_lake_in_Gennevilliers%2C_France.jpg?width=800 | Un renard roux au bord de l'eau (photo : Alexis Lours, CC BY 4.0, Wikimedia Commons)
+@ img/illus_00_kit.jpg | Erste Begegnung : toi et Lea sur un sentier de la Forêt-Noire. Illustration générée avec Google Gemini, d'après une photo d'Alexis Lours (Wikimedia Commons, CC BY 4.0)
 
 {{fr:Tu arrives dans la Forêt-Noire et tu rencontres Lea, un lièvre très sympa. Un renard et un lièvre, ça pourrait mal tourner… mais tu es un gentil renard ! Tu vas te présenter, et dire quand tu ne comprends pas !}}
 

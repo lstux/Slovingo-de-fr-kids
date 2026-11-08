@@ -37,7 +37,7 @@ Photos Wikimedia Commons insérées par `@` dans chaque fiche (via `Special:File
 | 00_Introduction_05_comptage | [Ducks in a row2.JPG](https://commons.wikimedia.org/wiki/File:Ducks_in_a_row2.JPG) | Alf van Beem | Public domain |
 | 10_Series_00_KitSurvie_01_salutations | [Black Forest- Road (10561950824).jpg](https://commons.wikimedia.org/wiki/File:Black_Forest-_Road_(10561950824).jpg) | Roman Boed | CC BY 2.0 |
 | 10_Series_00_KitSurvie_02_politesse | [Blumenwiese am Schwarzwald-Schwäbische-Alb-Allgäu-Weg (HW 5) - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Blumenwiese_am_Schwarzwald-Schw%C3%A4bische-Alb-Allg%C3%A4u-Weg_(HW_5)_-_panoramio.jpg) | qwesy | CC BY 3.0 |
-| 10_Series_00_KitSurvie_03_dialogue | [Red Fox drinking from a lake in Gennevilliers, France.jpg](https://commons.wikimedia.org/wiki/File:Red_Fox_drinking_from_a_lake_in_Gennevilliers,_France.jpg) | Alexis Lours | CC BY 4.0 |
+| 10_Series_00_KitSurvie_03_dialogue (`illus_00_kit.jpg`, illustration IA) | [Red Fox drinking from a lake in Gennevilliers, France.jpg](https://commons.wikimedia.org/wiki/File:Red_Fox_drinking_from_a_lake_in_Gennevilliers,_France.jpg) | Alexis Lours | CC BY 4.0 (œuvre dérivée, générée avec Google Gemini) |
 | 10_Series_00_KitSurvie_04_extra | [Schluchsee Aug 2010 a.jpg](https://commons.wikimedia.org/wiki/File:Schluchsee_Aug_2010_a.jpg) | Cayambe | CC BY-SA 3.0 |
 | 10_Series_01_Familie_01_meine-familie | [Mlade lisice u rupi.jpg](https://commons.wikimedia.org/wiki/File:Mlade_lisice_u_rupi.jpg) | Divlja Srbija | CC BY-SA 4.0 |
 | 10_Series_01_Familie_02_wie-alt-bist-du | [Hare in Jusandala 1.jpg](https://commons.wikimedia.org/wiki/File:Hare_in_Jusandala_1.jpg) | AlyonaKaptyonkina | CC BY-SA 4.0 |
