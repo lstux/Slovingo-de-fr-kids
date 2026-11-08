@@ -1,6 +1,6 @@
 # Série Tiere (5/5) — Im Wald mit Oma Hilde
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Calluna_vulgaris_-_Panoramic_trail_-_Black_Forest_National_Park_01.jpg?width=800 | Un sentier de lande fleurie dans la Forêt-Noire (photo : H. Zell, CC BY-SA 3.0, Wikimedia Commons)
+@ img/illus_05_tiere.jpg | Im Wald mit Oma Hilde : Herr Falke rappelle de rester sur le chemin, et là-haut, un cerf ! Illustration générée avec Google Gemini, d'après une photo de H. Zell (Wikimedia Commons, CC BY-SA 3.0)
 
 {{fr:Une promenade en forêt avec Oma Hilde ! Écoute bien : tu connais presque tous les mots.}}
 
