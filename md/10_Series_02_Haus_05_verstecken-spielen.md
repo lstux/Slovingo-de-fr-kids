@@ -1,6 +1,6 @@
 # Série Haus (5/5) — Verstecken spielen
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Feldhase_kauernd.jpg?width=800 | Un lièvre bien caché dans l'herbe (photo : Echo Charly, CC BY-SA 4.0, Wikimedia Commons)
+@ img/illus_02_haus.jpg | Verstecken spielen : Oma Hilde cherche, Tom, Lea et toi vous cachez. Illustration générée avec Google Gemini, d'après une photo d'Echo Charly (Wikimedia Commons, CC BY-SA 4.0)
 
 {{fr:Retour chez Lea ! Cette fois, on joue à cache-cache dans toute la maison. Un lièvre qui joue à cache-cache avec un renard, c'est drôle, mais Lea n'a pas peur : un renard gentil, ça se reconnaît ! Écoute bien où chacun se cache !}}
 

@@ -49,7 +49,7 @@ Photos Wikimedia Commons insérées par `@` dans chaque fiche (via `Special:File
 | 10_Series_02_Haus_02_die-moebel | [Badger sett.jpg](https://commons.wikimedia.org/wiki/File:Badger_sett.jpg) | Rubbish computer | CC BY-SA 4.0 |
 | 10_Series_02_Haus_03_meine-sachen | [Ein Eingang zu einem Fuchsbau 01.jpg](https://commons.wikimedia.org/wiki/File:Ein_Eingang_zu_einem_Fuchsbau_01.jpg) | Andreas Huth | CC BY-SA 4.0 |
 | 10_Series_02_Haus_04_was-machen-wir-zu-hause | [Siebenschläfer im Fudatal bei Kassel -Germany 2019.jpg](https://commons.wikimedia.org/wiki/File:Siebenschl%C3%A4fer_im_Fudatal_bei_Kassel_-Germany_2019.jpg) | Unim0g KS | CC BY-SA 4.0 |
-| 10_Series_02_Haus_05_verstecken-spielen | [Feldhase kauernd.jpg](https://commons.wikimedia.org/wiki/File:Feldhase_kauernd.jpg) | Echo Charly | CC BY-SA 4.0 |
+| 10_Series_02_Haus_05_verstecken-spielen (`illus_02_haus.jpg`, illustration IA) | [Feldhase kauernd.jpg](https://commons.wikimedia.org/wiki/File:Feldhase_kauernd.jpg) | Echo Charly | CC BY-SA 4.0 (œuvre dérivée, générée avec Google Gemini) |
 | 10_Series_02_Haus_06_extra | [Feldberg, St. Wilhelmer Hütte mit Schauinsland 2.jpg](https://commons.wikimedia.org/wiki/File:Feldberg,_St._Wilhelmer_H%C3%BCtte_mit_Schauinsland_2.jpg) | Andreas Schwarzkopf | CC BY-SA 3.0 |
 | 10_Series_03_Essen_01_was-wir-essen | [Frisch gebackener Brotlaib eines Bauernbrots.jpg](https://commons.wikimedia.org/wiki/File:Frisch_gebackener_Brotlaib_eines_Bauernbrots.jpg) | Marc-Lautenbacher | CC BY-SA 4.0 |
 | 10_Series_03_Essen_02_ich-habe-hunger | [Red squirrel eating hazel nut.jpg](https://commons.wikimedia.org/wiki/File:Red_squirrel_eating_hazel_nut.jpg) | Evas-naturfotografie | CC BY-SA 4.0 |
