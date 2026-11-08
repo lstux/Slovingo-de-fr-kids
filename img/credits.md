@@ -73,5 +73,5 @@ Photos Wikimedia Commons insérées par `@` dans chaque fiche (via `Special:File
 | 10_Series_06_Spiele_02_draussen-spielen | [Schaukel, Spielplatz Holzacker, Tübingen-Hirschau.jpg](https://commons.wikimedia.org/wiki/File:Schaukel,_Spielplatz_Holzacker,_T%C3%BCbingen-Hirschau.jpg) | Johannes Rössel | CC0 |
 | 10_Series_06_Spiele_03_brettspiele-und-karten | [Würfel, gemischt -- 2021 -- 5577.jpg](https://commons.wikimedia.org/wiki/File:W%C3%BCrfel,_gemischt_--_2021_--_5577.jpg) | Dietmar Rabich | CC BY-SA 4.0 |
 | 10_Series_06_Spiele_04_wollen-wir-spielen | [Adidas soccer ball on a grass pitch (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg) | Peter Glaser | CC0 |
-| 10_Series_06_Spiele_05_spieleabend-bei-lea | [Brettspiel Mensch ärger dich nicht.jpg](https://commons.wikimedia.org/wiki/File:Brettspiel_Mensch_%C3%A4rger_dich_nicht.jpg) | Tetzemann | CC0 |
+| 10_Series_06_Spiele_05_spieleabend-bei-lea (`illus_06_spiele.jpg`, illustration IA) | [Brettspiel Mensch ärger dich nicht.jpg](https://commons.wikimedia.org/wiki/File:Brettspiel_Mensch_%C3%A4rger_dich_nicht.jpg) | Tetzemann | CC0 (œuvre dérivée, générée avec Google Gemini) |
 | 10_Series_06_Spiele_06_extra | [Meadow in Black Forest.jpg](https://commons.wikimedia.org/wiki/File:Meadow_in_Black_Forest.jpg) | Smilla Heckel | CC BY-SA 4.0 |

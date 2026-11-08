@@ -1,6 +1,6 @@
 # Série Spiele (5/5) — Spieleabend bei Lea
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Brettspiel_Mensch_%C3%A4rger_dich_nicht.jpg?width=800 | Un jeu de société (Mensch ärgere dich nicht) (photo : Tetzemann, CC0, Wikimedia Commons)
+@ img/illus_06_spiele.jpg | Spieleabend bei Lea : il pleut dehors, alors on sort le jeu de société ! Illustration générée avec Google Gemini, d'après une photo de Tetzemann (Wikimedia Commons, CC0)
 
 {{fr:Un soir de pluie dans la forêt, soirée jeux chez Lea ! Écoute bien : tu connais presque tous les mots.}}
 
