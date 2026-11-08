@@ -147,7 +147,7 @@ Fiche `10_Series_05_Tiere_05_im-wald-mit-oma-hilde.md` → `img/illus_05_tiere.j
 ```
 Use the attached model sheets for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
 
-Scene: A forest path in the Black Forest with blooming heather and tall trees. Oma Hilde the owl and Herr Falke the falcon ranger in his green uniform show the way; the young fox, Lea and Tom follow, looking up at a deer on the hillside in the background. Friendly, curious mood.
+Scene: A forest path in the Black Forest with blooming heather and tall trees. Oma Hilde the owl leads the walk. Herr Falke the peregrine falcon park ranger, in his ranger hat, khaki vest and fir-tree badge, stands on the path and raises one wing in a friendly "stay on the path" gesture. The young fox, Lea and Tom stand on the path and look up at a deer on the hillside in the background. Friendly, curious mood.
 
 Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Lea wears her mint T-shirt, yellow satchel and red sneakers.
 ```
