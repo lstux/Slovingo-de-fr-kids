@@ -161,7 +161,7 @@ Fiche `10_Series_06_Spiele_05_spieleabend-bei-lea.md` → `img/illus_06_spiele.j
 ```
 Use the attached model sheets for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
 
-Scene: A cosy living room on a rainy evening, with rain on the window. A board game is set on a low table: Lea the hare, Tom the badger, Oma Hilde the owl and the young fox sit around it, rolling a big wooden die and laughing. Warm lamp light.
+Scene: A cosy wooden living room in a forest house on a rainy evening. Through the window we see only dark spruce trees in the rain: no street, no street lamps, no buildings. A board game is set on a low table: Lea the hare, Tom the badger, Oma Hilde the owl and the young fox sit around it, laughing. Tom has just rolled a small wooden die, the size of a walnut, which lies on the board. Warm lamp light.
 
 Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Lea wears her mint T-shirt, yellow satchel and red sneakers.
 ```
