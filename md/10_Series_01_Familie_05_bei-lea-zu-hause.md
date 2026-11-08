@@ -1,6 +1,6 @@
 # Série Familie (5/5) — Bei Lea zu Hause
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/European_badger_%28Meles_meles_taxus%29_Drenthe.jpg?width=800 | Un blaireau européen, comme Tom (photo : Charles J. Sharp, CC BY-SA 4.0, Wikimedia Commons)
+@ img/illus_01_familie.jpg | Bei Lea zu Hause : Lea te présente sa maison, avec Tom et Oma Hilde. Illustration générée avec Google Gemini, d'après une photo de Charles J. Sharp (Wikimedia Commons, CC BY-SA 4.0)
 
 {{fr:Tu vas chez Lea ! Tu rencontres son copain Tom, un blaireau, et sa mamie Hilde, un hibou. Écoute bien : tu connais presque tous les mots.}}
 

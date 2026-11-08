@@ -43,7 +43,7 @@ Photos Wikimedia Commons insérées par `@` dans chaque fiche (via `Special:File
 | 10_Series_01_Familie_02_wie-alt-bist-du | [Hare in Jusandala 1.jpg](https://commons.wikimedia.org/wiki/File:Hare_in_Jusandala_1.jpg) | AlyonaKaptyonkina | CC BY-SA 4.0 |
 | 10_Series_01_Familie_03_bei-oma-und-opa | [Cervus elaphus Luc Viatour 1.jpg](https://commons.wikimedia.org/wiki/File:Cervus_elaphus_Luc_Viatour_1.jpg) | Lviatour | CC BY-SA 3.0 |
 | 10_Series_01_Familie_04_was-machen-wir-zusammen | [Red fox kits playing Bombay Hook (36455).jpg](https://commons.wikimedia.org/wiki/File:Red_fox_kits_playing_Bombay_Hook_(36455).jpg) | Rhododendrites | CC BY-SA 4.0 |
-| 10_Series_01_Familie_05_bei-lea-zu-hause | [European badger (Meles meles taxus) Drenthe.jpg](https://commons.wikimedia.org/wiki/File:European_badger_(Meles_meles_taxus)_Drenthe.jpg) | Charles J. Sharp | CC BY-SA 4.0 |
+| 10_Series_01_Familie_05_bei-lea-zu-hause (`illus_01_familie.jpg`, illustration IA) | [European badger (Meles meles taxus) Drenthe.jpg](https://commons.wikimedia.org/wiki/File:European_badger_(Meles_meles_taxus)_Drenthe.jpg) | Charles J. Sharp | CC BY-SA 4.0 (œuvre dérivée, générée avec Google Gemini) |
 | 10_Series_01_Familie_06_extra | [Young Foxes 2 (7236327624).jpg](https://commons.wikimedia.org/wiki/File:Young_Foxes_2_(7236327624).jpg) | Tony Hisgett | CC BY 2.0 |
 | 10_Series_02_Haus_01_unsere-zimmer | [Morlokhof Baiersbronn - Black Forest-farmhouse.jpg](https://commons.wikimedia.org/wiki/File:Morlokhof_Baiersbronn_-_Black_Forest-farmhouse.jpg) | Roman Boed | CC BY 2.0 |
 | 10_Series_02_Haus_02_die-moebel | [Badger sett.jpg](https://commons.wikimedia.org/wiki/File:Badger_sett.jpg) | Rubbish computer | CC BY-SA 4.0 |
