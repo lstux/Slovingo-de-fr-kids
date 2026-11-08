@@ -79,7 +79,7 @@ Use the attached model sheet for the characters (keep them exactly as designed).
 
 Scene: A sunny forest path in the Black Forest in summer, with tall spruce trees and ferns on both sides. The young fox, with his backpack, meets Lea the hare for the first time: they stand face to face on the path, a little shy, the fox waving, Lea smiling with her long ears upright.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Lea wears her mint T-shirt, yellow satchel and red sneakers.
 ```
 
 ### Familie 05 · Bei Lea zu Hause
@@ -93,7 +93,7 @@ Use the attached model sheets for the characters (keep them exactly as designed)
 
 Scene: In a clearing at the edge of a dark forest, a cosy wooden house with a round door, flowers and a big spruce beside it. Lea the hare proudly shows her home; Tom the badger, in his orange sweater, waves from the doorway, and Oma Hilde the owl stands on the porch in her flowered apron. The young fox, with his backpack, looks around with a smile.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Lea wears her mint T-shirt, yellow satchel and red sneakers.
 ```
 
 ### Haus 05 · Verstecken spielen
@@ -105,9 +105,9 @@ Fiche `10_Series_02_Haus_05_verstecken-spielen.md` → `img/illus_02_haus.jpg`
 ```
 Use the attached model sheet for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
 
-Scene: Inside a cosy burrow-house with wooden beams, a game of hide-and-seek: Tom the badger hides in a wooden wardrobe, peeking out with one eye; Lea the hare crouches behind a curtain; the fox counts with his paws over his eyes; Oma Hilde the owl laughs from the doorway. Warm light, toys on the floor.
+Scene: Inside a cosy burrow-house with wooden beams, a game of hide-and-seek. Oma Hilde the owl is the seeker: she stands in the doorway with one wing over her eyes, counting, with a big smile. The three friends are hiding: Tom the badger squeezes into a wooden wardrobe, peeking out with one eye; Lea the hare lies flat under a low bed, with only her long ears and her red sneakers showing; the young fox crouches behind an old sofa, with just his ears, eyes and fluffy tail sticking out, trying not to laugh. Nobody except Oma Hilde covers their eyes. Warm light, toys on the floor.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Lea wears her mint T-shirt, yellow satchel and red sneakers.
 ```
 
 ### Essen 05 · Mittagessen bei Oma Hilde
@@ -121,7 +121,7 @@ Use the attached model sheets for the characters (keep them exactly as designed)
 
 Scene: A warm kitchen with a big wooden table in Oma Hilde's nest-house, with a steaming bowl of vegetables and potatoes in the middle. Oma Hilde the owl carries the bowl; Lea the hare and Tom the badger sit at the table, and the young fox sits at the end with a napkin, happy and hungry.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Lea wears her mint T-shirt, yellow satchel and red sneakers.
 ```
 
 ### Stadt 05 · Verlaufen in der Stadt
@@ -133,9 +133,9 @@ Fiche `10_Series_04_Stadt_05_verloren-in-der-stadt.md` → `img/illus_04_stadt.j
 ```
 Use the attached model sheet for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
 
-Scene: A forest path at a crossroads, with a wooden signpost with arrows pointing in several directions. The young fox and Tom the badger stand in front of it, looking at a map; Tom scratches his head, the fox points towards the far hills. A small sunlit village can be seen behind the trees.
+Scene: A forest path at a crossroads, with a wooden signpost with arrows pointing in several directions. The young fox stands in front of it holding an open map, looking lost; Tom the badger, who knows every trail, points confidently down the path with a big smile. Lea's ice-cream parlour is not shown. A small sunlit village can be seen behind the trees.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Lea wears her mint T-shirt, yellow satchel and red sneakers.
 ```
 
 ### Tiere 05 · Im Wald mit Oma Hilde
@@ -149,7 +149,7 @@ Use the attached model sheets for the characters (keep them exactly as designed)
 
 Scene: A forest path in the Black Forest with blooming heather and tall trees. Oma Hilde the owl and Herr Falke the falcon ranger in his green uniform show the way; the young fox, Lea and Tom follow, looking up at a deer on the hillside in the background. Friendly, curious mood.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Lea wears her mint T-shirt, yellow satchel and red sneakers.
 ```
 
 ### Spiele 05 · Spieleabend bei Lea
@@ -163,5 +163,5 @@ Use the attached model sheets for the characters (keep them exactly as designed)
 
 Scene: A cosy living room on a rainy evening, with rain on the window. A board game is set on a low table: Lea the hare, Tom the badger, Oma Hilde the owl and the young fox sit around it, rolling a big wooden die and laughing. Warm lamp light.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Lea wears her mint T-shirt, yellow satchel and red sneakers.
 ```
