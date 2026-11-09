@@ -69,6 +69,8 @@
   "ui": {
     "change_course": "Changer de cours",
     "read_story": "📖 Lire toute l'histoire",
+    "review_button": "🔁 Révision",
+    "reset_review_mistakes": "🧹 Oublier mes questions ratées ({m})",
     "voice_other": "Autres voix",
     "home": "Accueil",
     "exercises": "Exercices",
