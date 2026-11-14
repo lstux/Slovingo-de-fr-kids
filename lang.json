@@ -196,7 +196,40 @@
     "all_sheets": "Toutes les fiches",
     "backup_export": "📥 Exporter les réglages et la progression (JSON)",
     "backup_import": "📤 Importer une sauvegarde (JSON)",
-    "map_final_reached": "Bravo ! Tu as terminé tout le parcours !"
+    "map_final_reached": "Bravo ! Tu as terminé tout le parcours !",
+    "tts_error": "La voix n'a pas pu être lue ({error}).",
+    "sheet_not_found": "Fiche introuvable : {id}",
+    "credits_pause": "Pause",
+    "credits_resume": "Reprendre"
+  },
+  "mascots": {
+    "map": "duo",
+    "greetings": {
+      "morning": [
+        { "t": "Guten Morgen, [USER_NAME]!", "n": "Bonjour, [USER_NAME] !" },
+        { "t": "Guten Morgen! Hast du gut geschlafen?", "n": "Bonjour ! Tu as bien dormi ?" },
+        { "t": "Die Sonne scheint schon!", "n": "Le soleil brille déjà !" }
+      ],
+      "day": [
+        { "t": "Hallo, [USER_NAME]!", "n": "Salut, [USER_NAME] !" },
+        { "t": "Komm, wir gehen los!", "n": "Viens, on y va !" },
+        { "t": "Was entdecken wir heute?", "n": "Qu'est-ce qu'on va découvrir aujourd'hui ?" }
+      ],
+      "evening": [
+        { "t": "Guten Abend, [USER_NAME]!", "n": "Bonsoir, [USER_NAME] !" },
+        { "t": "Noch eine Übung vor dem Schlafen?", "n": "Encore un exercice avant de dormir ?" }
+      ],
+      "night": [
+        { "t": "Du schläfst noch nicht?", "n": "Tu ne dors pas encore ?" },
+        { "t": "Gute Nacht… aber erst noch eine Übung!", "n": "Bonne nuit… mais d'abord un exercice !" }
+      ],
+      "any": [
+        { "t": "Hallo, [USER_NAME]!", "n": "Salut, [USER_NAME] !" },
+        { "t": "Schön, dass du wieder da bist!", "n": "Ça fait plaisir de te revoir !" },
+        { "t": "Schön, dich zu sehen!", "n": "Ça fait plaisir de te voir !", "who": "hare" },
+        { "t": "He! Wohin gehen wir heute?", "n": "Hé ! On va où aujourd'hui ?", "who": "fox" }
+      ]
+    }
   },
   "cheers": {
     "perfect": [
