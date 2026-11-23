@@ -257,13 +257,20 @@
         "Je",
         "prends",
         "un bretzel,",
-        "s'il te plaît."
+        "s'il",
+        "te",
+        "plaît.",
+        "et",
+        "sucrée"
       ],
       "tokens_l2": [
         "Ich",
         "nehme",
-        "eine Brezel,",
-        "bitte."
+        "eine",
+        "Brezel,",
+        "bitte.",
+        "süß",
+        "kalt"
       ]
     },
     {
@@ -275,13 +282,19 @@
         "J'ai",
         "faim.",
         "Je prends",
-        "des baies."
+        "des baies.",
+        "est",
+        "sucrée"
       ],
       "tokens_l2": [
-        "Ich habe",
+        "Ich",
+        "habe",
         "Hunger.",
-        "Ich nehme",
-        "Beeren."
+        "Ich",
+        "nehme",
+        "Beeren.",
+        "süß",
+        "ist"
       ]
     },
     {
@@ -292,12 +305,17 @@
       "tokens_l1": [
         "Tu",
         "prends",
-        "des baies ?"
+        "des",
+        "baies ?",
+        "est",
+        "froide"
       ],
       "tokens_l2": [
         "Nimmst",
         "du",
-        "Beeren?"
+        "Beeren?",
+        "kalt",
+        "süß"
       ]
     },
     {

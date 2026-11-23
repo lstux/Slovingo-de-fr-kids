@@ -369,12 +369,10 @@
         "J'ouvre",
         "la",
         "fenêtre.",
-        "Merci",
-        "!",
+        "Merci !",
         "Tu",
         "es",
-        "top",
-        "!"
+        "top !"
       ],
       "tokens_l2": [
         "Ich",
@@ -398,7 +396,9 @@
         "n'est",
         "pas",
         "dans",
-        "l'armoire."
+        "l'armoire.",
+        "porte",
+        "ferme"
       ],
       "tokens_l2": [
         "Das",
@@ -406,7 +406,9 @@
         "ist",
         "nicht",
         "im",
-        "Schrank."
+        "Schrank.",
+        "gibt",
+        "schließe"
       ]
     },
     {
@@ -417,12 +419,16 @@
       "tokens_l1": [
         "Tu",
         "dors,",
-        "Tom ?"
+        "Tom ?",
+        "salon",
+        "enfants"
       ],
       "tokens_l2": [
         "Schläfst",
         "du,",
-        "Tom?"
+        "Tom?",
+        "ist",
+        "toll"
       ]
     },
     {
@@ -437,7 +443,9 @@
         "Le",
         "salon",
         "est",
-        "génial !"
+        "génial !",
+        "ferme",
+        "plein"
       ],
       "tokens_l2": [
         "Danke,",
@@ -445,7 +453,9 @@
         "Das",
         "Wohnzimmer",
         "ist",
-        "toll!"
+        "toll!",
+        "die",
+        "viele"
       ]
     },
     {

@@ -193,12 +193,16 @@
       "tokens_l1": [
         "Regarde,",
         "les canards",
-        "nagent !"
+        "nagent !",
+        "grand"
       ],
       "tokens_l2": [
-        "Schau mal,",
-        "die Enten",
-        "schwimmen!"
+        "Schau",
+        "mal,",
+        "die",
+        "Enten",
+        "schwimmen!",
+        "ein"
       ]
     },
     {
@@ -210,13 +214,19 @@
         "Je",
         "voudrais",
         "voir",
-        "les chevreuils !"
+        "les",
+        "chevreuils !",
+        "grand",
+        "tellement"
       ],
       "tokens_l2": [
         "Ich",
         "möchte",
-        "die Rehe",
-        "sehen!"
+        "die",
+        "Rehe",
+        "sehen!",
+        "groß",
+        "so"
       ]
     },
     {
@@ -228,13 +238,18 @@
         "Venez,",
         "on",
         "va",
-        "au glacier !"
+        "au",
+        "glacier !",
+        "qu'un"
       ],
       "tokens_l2": [
         "Kommt,",
         "wir",
         "gehen",
-        "in die Eisdiele!"
+        "in",
+        "die",
+        "Eisdiele!",
+        "ein"
       ]
     },
     {

@@ -270,7 +270,10 @@
         "est",
         "chaud",
         "et",
-        "trop bon."
+        "trop",
+        "bon.",
+        "bien",
+        "fromage"
       ],
       "tokens_l2": [
         "Das",
@@ -278,7 +281,9 @@
         "ist",
         "warm",
         "und",
-        "lecker."
+        "lecker.",
+        "mag",
+        "kein"
       ]
     },
     {
@@ -288,14 +293,19 @@
       "l2": "Ich mag kein Gemüse.",
       "tokens_l1": [
         "Je",
-        "n'aime pas",
-        "les légumes."
+        "n'aime",
+        "pas",
+        "les légumes.",
+        "bon",
+        "et"
       ],
       "tokens_l2": [
         "Ich",
         "mag",
         "kein",
-        "Gemüse."
+        "Gemüse.",
+        "ist",
+        "lecker"
       ]
     },
     {
@@ -306,12 +316,15 @@
       "tokens_l1": [
         "Tu",
         "aimes",
-        "le lait ?"
+        "le",
+        "lait ?",
+        "est"
       ],
       "tokens_l2": [
         "Magst",
         "du",
-        "Milch?"
+        "Milch?",
+        "und"
       ]
     },
     {

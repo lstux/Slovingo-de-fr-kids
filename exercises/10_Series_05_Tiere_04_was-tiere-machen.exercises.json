@@ -257,13 +257,15 @@
         "Le",
         "chat",
         "court",
-        "vite."
+        "vite.",
+        "saute"
       ],
       "tokens_l2": [
         "Die",
         "Katze",
         "läuft",
-        "schnell."
+        "schnell.",
+        "springt"
       ]
     },
     {
@@ -276,14 +278,18 @@
         "nagent",
         "et",
         "les oiseaux",
-        "volent."
+        "volent.",
+        "lapin",
+        "saute"
       ],
       "tokens_l2": [
         "Fische",
         "schwimmen",
         "und",
         "Vögel",
-        "fliegen."
+        "fliegen.",
+        "springt",
+        "aber"
       ]
     },
     {
@@ -294,12 +300,16 @@
       "tokens_l1": [
         "Le",
         "lapin",
-        "saute."
+        "saute.",
+        "nage",
+        "poisson"
       ],
       "tokens_l2": [
         "Das",
         "Kaninchen",
-        "springt."
+        "springt.",
+        "schwimmt",
+        "esse"
       ]
     },
     {

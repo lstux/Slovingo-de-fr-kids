@@ -256,16 +256,21 @@
       "tokens_l1": [
         "Le cerf",
         "est",
-        "plus grand",
+        "plus",
+        "grand",
         "que",
-        "le chevreuil."
+        "le chevreuil.",
+        "les"
       ],
       "tokens_l2": [
-        "Der Hirsch",
+        "Der",
+        "Hirsch",
         "ist",
         "größer",
         "als",
-        "das Reh."
+        "das",
+        "Reh.",
+        "sind"
       ]
     },
     {
@@ -276,16 +281,23 @@
       "tokens_l1": [
         "Le chien",
         "est",
-        "plus petit",
+        "plus",
+        "petit",
         "que",
-        "le cheval."
+        "le cheval.",
+        "sont",
+        "les"
       ],
       "tokens_l2": [
-        "Der Hund",
+        "Der",
+        "Hund",
         "ist",
         "kleiner",
         "als",
-        "das Pferd."
+        "das",
+        "Pferd.",
+        "mag",
+        "lustig"
       ]
     },
     {
@@ -297,13 +309,15 @@
         "Le",
         "sanglier",
         "est",
-        "fort."
+        "fort.",
+        "rayures"
       ],
       "tokens_l2": [
         "Das",
         "Wildschwein",
         "ist",
-        "stark."
+        "stark.",
+        "hat"
       ]
     },
     {

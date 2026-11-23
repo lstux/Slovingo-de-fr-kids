@@ -289,14 +289,16 @@
         "Je",
         "range",
         "ma",
-        "chambre."
+        "chambre.",
+        "dors"
       ],
       "tokens_l2": [
         "Ich",
         "räume",
         "mein",
         "Zimmer",
-        "auf."
+        "auf.",
+        "du"
       ]
     },
     {
@@ -308,12 +310,16 @@
         "Je",
         "ne",
         "dors",
-        "pas !"
+        "pas !",
+        "dort",
+        "maintenant"
       ],
       "tokens_l2": [
         "Ich",
         "schlafe",
-        "nicht!"
+        "nicht!",
+        "jetzt",
+        "du"
       ]
     },
     {
@@ -325,13 +331,15 @@
         "Mon",
         "frère",
         "dort",
-        "maintenant."
+        "maintenant.",
+        "dans"
       ],
       "tokens_l2": [
         "Mein",
         "Bruder",
         "schläft",
-        "jetzt."
+        "jetzt.",
+        "im"
       ]
     },
     {
@@ -342,13 +350,17 @@
       "tokens_l1": [
         "J'ouvre",
         "la",
-        "fenêtre."
+        "fenêtre.",
+        "dort",
+        "frère"
       ],
       "tokens_l2": [
         "Ich",
         "öffne",
         "das",
-        "Fenster."
+        "Fenster.",
+        "schläft",
+        "jetzt"
       ]
     },
     {

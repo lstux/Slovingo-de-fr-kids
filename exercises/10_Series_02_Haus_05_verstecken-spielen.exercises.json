@@ -193,12 +193,17 @@
       "tokens_l1": [
         "On",
         "joue",
-        "à cache-cache ?"
+        "à",
+        "cache-cache ?",
+        "drôle",
+        "canapé"
       ],
       "tokens_l2": [
         "Spielen",
         "wir",
-        "Verstecken?"
+        "Verstecken?",
+        "ist",
+        "lustig"
       ]
     },
     {
@@ -210,13 +215,17 @@
         "Moi,",
         "je suis",
         "derrière",
-        "le canapé !"
+        "le",
+        "canapé !",
+        "drôle"
       ],
       "tokens_l2": [
         "Ich",
         "bin",
         "hinter",
-        "dem Sofa!"
+        "dem",
+        "Sofa!",
+        "ist"
       ]
     },
     {
@@ -229,14 +238,18 @@
         "moi,",
         "je suis",
         "sous",
-        "le lit !"
+        "le",
+        "lit !",
+        "drôle"
       ],
       "tokens_l2": [
         "Und",
         "ich",
         "bin",
         "unter",
-        "dem Bett!"
+        "dem",
+        "Bett!",
+        "lustig"
       ]
     },
     {

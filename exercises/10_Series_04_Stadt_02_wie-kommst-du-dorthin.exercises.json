@@ -256,12 +256,18 @@
       "tokens_l1": [
         "Je",
         "vais",
-        "en bateau."
+        "en bateau.",
+        "va",
+        "au"
       ],
       "tokens_l2": [
         "Ich",
         "fahre",
-        "mit dem Boot."
+        "mit",
+        "dem",
+        "Boot.",
+        "den",
+        "in"
       ]
     },
     {
@@ -272,12 +278,16 @@
       "tokens_l1": [
         "Papa",
         "va",
-        "en voiture."
+        "en voiture.",
+        "bateau"
       ],
       "tokens_l2": [
         "Papa",
         "fährt",
-        "mit dem Auto."
+        "mit",
+        "dem",
+        "Auto.",
+        "kommt"
       ]
     },
     {
@@ -288,12 +298,16 @@
       "tokens_l1": [
         "On",
         "va",
-        "au parc."
+        "au parc.",
+        "arrive"
       ],
       "tokens_l2": [
         "Wir",
         "gehen",
-        "in den Park."
+        "in",
+        "den",
+        "Park.",
+        "kommt"
       ]
     },
     {

@@ -268,13 +268,17 @@
         "Je",
         "voudrais",
         "de l'eau,",
-        "s'il te plaît."
+        "s'il",
+        "te",
+        "plaît.",
+        "est"
       ],
       "tokens_l2": [
         "Ich",
         "möchte",
         "Wasser,",
-        "bitte."
+        "bitte.",
+        "fertig"
       ]
     },
     {
@@ -286,13 +290,15 @@
         "Le",
         "petit-déjeuner",
         "est",
-        "prêt !"
+        "prêt !",
+        "soif"
       ],
       "tokens_l2": [
         "Das",
         "Frühstück",
         "ist",
-        "fertig!"
+        "fertig!",
+        "du"
       ]
     },
     {
@@ -305,7 +311,8 @@
         "soif.",
         "Je",
         "voudrais",
-        "du lait."
+        "du lait.",
+        "est"
       ],
       "tokens_l2": [
         "Ich",
@@ -313,7 +320,8 @@
         "Durst.",
         "Ich",
         "möchte",
-        "Milch."
+        "Milch.",
+        "fertig"
       ]
     },
     {

@@ -254,13 +254,18 @@
       "tokens_l1": [
         "On",
         "joue",
-        "au foot ?"
+        "au",
+        "foot ?",
+        "je",
+        "aussi"
       ],
       "tokens_l2": [
         "Wollen",
         "wir",
         "Fußball",
-        "spielen?"
+        "spielen?",
+        "mache",
+        "ich"
       ]
     },
     {
@@ -272,13 +277,17 @@
         "Oui,",
         "je",
         "joue",
-        "aussi !"
+        "aussi !",
+        "te",
+        "fair-play"
       ],
       "tokens_l2": [
         "Ja,",
         "ich",
         "mache",
-        "mit!"
+        "mit!",
+        "bitte",
+        "fair"
       ]
     },
     {
@@ -289,12 +298,18 @@
       "tokens_l1": [
         "On",
         "est",
-        "une équipe !"
+        "une",
+        "équipe !",
+        "je",
+        "joue"
       ],
       "tokens_l2": [
         "Wir",
         "sind",
-        "eine Mannschaft!"
+        "eine",
+        "Mannschaft!",
+        "mache",
+        "ich"
       ]
     },
     {

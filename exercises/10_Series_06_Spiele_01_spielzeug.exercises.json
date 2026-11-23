@@ -272,12 +272,20 @@
       "tokens_l1": [
         "Je",
         "joue",
-        "avec le ballon."
+        "avec",
+        "le",
+        "ballon.",
+        "vole",
+        "cerf-volant"
       ],
       "tokens_l2": [
         "Ich",
         "spiele",
-        "mit dem Ball."
+        "mit",
+        "dem",
+        "Ball.",
+        "fliegt",
+        "machen"
       ]
     },
     {
@@ -288,12 +296,20 @@
       "tokens_l1": [
         "Tu",
         "joues",
-        "avec la poupée ?"
+        "avec",
+        "la",
+        "poupée ?",
+        "jeux",
+        "les"
       ],
       "tokens_l2": [
         "Spielst",
         "du",
-        "mit der Puppe?"
+        "mit",
+        "der",
+        "Puppe?",
+        "mag",
+        "machen"
       ]
     },
     {
@@ -305,13 +321,17 @@
         "Le ballon",
         "est",
         "sous",
-        "le lit."
+        "le lit.",
+        "les"
       ],
       "tokens_l2": [
-        "Der Ball",
+        "Der",
+        "Ball",
         "ist",
         "unter",
-        "dem Bett."
+        "dem",
+        "Bett.",
+        "mag"
       ]
     },
     {

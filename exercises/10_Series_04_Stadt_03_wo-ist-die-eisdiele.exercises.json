@@ -254,14 +254,20 @@
       "tokens_l1": [
         "Le glacier",
         "est",
-        "à côté de",
-        "l'école."
+        "à",
+        "côté",
+        "de",
+        "l'école.",
+        "gauche"
       ],
       "tokens_l2": [
-        "Die Eisdiele",
+        "Die",
+        "Eisdiele",
         "ist",
         "neben",
-        "der Schule."
+        "der",
+        "Schule.",
+        "links"
       ]
     },
     {
@@ -273,13 +279,17 @@
         "Pardon,",
         "où",
         "est",
-        "le glacier ?"
+        "le",
+        "glacier ?",
+        "à"
       ],
       "tokens_l2": [
         "Entschuldigung,",
         "wo",
         "ist",
-        "die Eisdiele?"
+        "die",
+        "Eisdiele?",
+        "links"
       ]
     },
     {
@@ -291,13 +301,16 @@
         "Non,",
         "pas",
         "à gauche,",
-        "à droite !"
+        "à",
+        "droite !",
+        "est"
       ],
       "tokens_l2": [
         "Nein,",
         "nicht",
         "links,",
-        "rechts!"
+        "rechts!",
+        "der"
       ]
     },
     {

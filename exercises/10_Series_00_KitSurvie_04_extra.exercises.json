@@ -333,12 +333,10 @@
         "je",
         "parle",
         "français.",
-        "Bien",
-        "!",
+        "Bien !",
         "De",
         "l'eau,",
-        "[USER_NAME]",
-        "?"
+        "[USER_NAME] ?"
       ],
       "tokens_l2": [
         "Nein,",
@@ -359,13 +357,15 @@
         "Pardon,",
         "comment",
         "tu",
-        "t'appelles ?"
+        "t'appelles ?",
+        "un"
       ],
       "tokens_l2": [
         "Entschuldigung,",
         "wie",
         "heißt",
-        "du?"
+        "du?",
+        "eins"
       ]
     },
     {
@@ -378,14 +378,16 @@
         "[USER_NAME] !",
         "Tu",
         "parles",
-        "allemand ?"
+        "allemand ?",
+        "un"
       ],
       "tokens_l2": [
         "Hallo,",
         "[USER_NAME]!",
         "Sprichst",
         "du",
-        "Deutsch?"
+        "Deutsch?",
+        "zwei"
       ]
     },
     {
@@ -396,12 +398,16 @@
       "tokens_l1": [
         "Trois,",
         "deux,",
-        "un…"
+        "un…",
+        "tu",
+        "comment"
       ],
       "tokens_l2": [
         "Drei,",
         "zwei,",
-        "eins…"
+        "eins…",
+        "heißt",
+        "wie"
       ]
     },
     {

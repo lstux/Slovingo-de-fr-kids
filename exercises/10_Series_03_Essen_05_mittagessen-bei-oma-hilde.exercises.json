@@ -204,15 +204,19 @@
       "tokens_l1": [
         "Non,",
         "merci.",
-        "Je n'ai plus",
-        "faim."
+        "Je",
+        "n'ai",
+        "plus",
+        "faim.",
+        "des"
       ],
       "tokens_l2": [
         "Nein,",
         "danke.",
         "Ich",
         "bin",
-        "satt."
+        "satt.",
+        "mit"
       ]
     },
     {
@@ -224,13 +228,17 @@
         "Tu",
         "voudrais",
         "encore",
-        "de la glace ?"
+        "de",
+        "la",
+        "glace ?",
+        "pommes"
       ],
       "tokens_l2": [
         "Möchtest",
         "du",
         "noch",
-        "Eis?"
+        "Eis?",
+        "mit"
       ]
     },
     {
@@ -242,14 +250,19 @@
         "Mamie,",
         "tu",
         "cuisines",
-        "très bien !"
+        "très",
+        "bien !",
+        "avec",
+        "appétit"
       ],
       "tokens_l2": [
         "Oma,",
         "du",
         "kochst",
         "sehr",
-        "gut!"
+        "gut!",
+        "mit",
+        "mag"
       ]
     },
     {

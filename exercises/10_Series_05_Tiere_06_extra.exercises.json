@@ -368,9 +368,13 @@
       "tokens_l1": [
         "Le cerf",
         "est",
-        "plus grand",
+        "plus",
+        "grand",
         "que",
-        "le sanglier !"
+        "le",
+        "sanglier !",
+        "plaît",
+        "sur"
       ],
       "tokens_l2": [
         "Der",
@@ -379,7 +383,9 @@
         "größer",
         "als",
         "das",
-        "Wildschwein!"
+        "Wildschwein!",
+        "dem",
+        "auf"
       ]
     },
     {
@@ -389,15 +395,22 @@
       "l2": "Ja, Herr Falke! Das Kaninchen springt!",
       "tokens_l1": [
         "Oui,",
-        "Monsieur Falke !",
+        "Monsieur",
+        "Falke !",
         "Le lapin",
-        "saute !"
+        "saute !",
+        "les",
+        "plaît"
       ],
       "tokens_l2": [
         "Ja,",
-        "Herr Falke!",
-        "Das Kaninchen",
-        "springt!"
+        "Herr",
+        "Falke!",
+        "Das",
+        "Kaninchen",
+        "springt!",
+        "dem",
+        "bitte"
       ]
     },
     {
@@ -418,12 +431,12 @@
         "sangliers.",
         "Ils",
         "sont",
-        "forts",
-        "!"
+        "forts !"
       ],
       "tokens_l2": [
         "Und",
-        "der Vogel",
+        "der",
+        "Vogel",
         "fliegt!",
         "Er ist",
         "schnell!",

@@ -251,12 +251,16 @@
       "tokens_l1": [
         "Tom",
         "est",
-        "au parc."
+        "au parc.",
+        "l'école",
+        "suis"
       ],
       "tokens_l2": [
         "Tom",
         "ist",
-        "im Park."
+        "im Park.",
+        "in",
+        "der"
       ]
     },
     {
@@ -267,12 +271,18 @@
       "tokens_l1": [
         "Je",
         "suis",
-        "à l'école."
+        "à l'école.",
+        "là-bas",
+        "boulangerie"
       ],
       "tokens_l2": [
         "Ich",
         "bin",
-        "in der Schule."
+        "in",
+        "der",
+        "Schule.",
+        "dort",
+        "ist"
       ]
     },
     {
@@ -283,13 +293,18 @@
       "tokens_l1": [
         "Où",
         "est",
-        "le glacier ?"
+        "le",
+        "glacier ?",
+        "l'école",
+        "suis"
       ],
       "tokens_l2": [
         "Wo",
         "ist",
         "die",
-        "Eisdiele?"
+        "Eisdiele?",
+        "der",
+        "in"
       ]
     },
     {

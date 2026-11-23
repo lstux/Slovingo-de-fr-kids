@@ -257,13 +257,17 @@
         "On",
         "joue",
         "au foot",
-        "dans le parc."
+        "dans",
+        "le",
+        "parc.",
+        "très"
       ],
       "tokens_l2": [
         "Wir",
         "spielen",
         "Fußball",
-        "im Park."
+        "im Park.",
+        "ist"
       ]
     },
     {
@@ -274,12 +278,21 @@
       "tokens_l1": [
         "On",
         "va",
-        "à l'aire de jeux."
+        "à",
+        "l'aire",
+        "de",
+        "jeux.",
+        "est",
+        "grand"
       ],
       "tokens_l2": [
         "Wir",
         "gehen",
-        "auf den Spielplatz."
+        "auf",
+        "den",
+        "Spielplatz.",
+        "ist",
+        "groß"
       ]
     },
     {
@@ -291,13 +304,18 @@
         "Le toboggan",
         "est",
         "très",
-        "grand."
+        "grand.",
+        "grimper",
+        "jouer"
       ],
       "tokens_l2": [
-        "Die Rutsche",
+        "Die",
+        "Rutsche",
         "ist",
         "sehr",
-        "groß."
+        "groß.",
+        "klettere",
+        "gern"
       ]
     },
     {

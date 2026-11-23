@@ -268,13 +268,19 @@
         "Tom",
         "sait",
         "bien",
-        "lancer le dé."
+        "lancer",
+        "le",
+        "dé.",
+        "à",
+        "toi"
       ],
       "tokens_l2": [
         "Tom",
         "kann",
         "gut",
-        "würfeln."
+        "würfeln.",
+        "bist",
+        "dran"
       ]
     },
     {
@@ -286,13 +292,16 @@
         "C'est",
         "à toi.",
         "Lance",
-        "le dé !"
+        "le",
+        "dé !",
+        "gagne"
       ],
       "tokens_l2": [
         "Du",
         "bist",
         "dran.",
-        "Würfle!"
+        "Würfle!",
+        "gewinne"
       ]
     },
     {
@@ -302,14 +311,19 @@
       "l2": "Ich verliere nicht gern.",
       "tokens_l1": [
         "Je",
-        "n'aime pas",
-        "perdre."
+        "n'aime",
+        "pas",
+        "perdre.",
+        "dé",
+        "à"
       ],
       "tokens_l2": [
         "Ich",
         "verliere",
         "nicht",
-        "gern."
+        "gern.",
+        "bist",
+        "dran"
       ]
     },
     {

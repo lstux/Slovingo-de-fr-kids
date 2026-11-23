@@ -370,14 +370,16 @@
         "aime",
         "jouer",
         "ensemble,",
-        "[USER_NAME] !"
+        "[USER_NAME] !",
+        "top"
       ],
       "tokens_l2": [
         "Wir",
         "spielen",
         "gern",
         "zusammen,",
-        "[USER_NAME]!"
+        "[USER_NAME]!",
+        "toll"
       ]
     },
     {
@@ -394,11 +396,9 @@
         "Au",
         "revoir,",
         "Mamie",
-        "Hilde",
-        "!",
+        "Hilde !",
         "À",
-        "bientôt",
-        "!"
+        "bientôt !"
       ],
       "tokens_l2": [
         "Hast",
@@ -424,7 +424,8 @@
         "moi,",
         "j'ai",
         "un",
-        "chien."
+        "chien.",
+        "top"
       ],
       "tokens_l2": [
         "Nein,",
@@ -432,7 +433,8 @@
         "ich",
         "habe",
         "einen",
-        "Hund."
+        "Hund.",
+        "bist"
       ]
     },
     {
@@ -445,14 +447,18 @@
         "frère",
         "a",
         "mon",
-        "gâteau !"
+        "gâteau !",
+        "es",
+        "top"
       ],
       "tokens_l2": [
         "Mein",
         "Bruder",
         "hat",
         "meinen",
-        "Kuchen!"
+        "Kuchen!",
+        "toll",
+        "bist"
       ]
     },
     {

@@ -295,14 +295,18 @@
         "J'aime",
         "jouer",
         "avec",
-        "Tom."
+        "Tom.",
+        "rit",
+        "on"
       ],
       "tokens_l2": [
         "Ich",
         "spiele",
         "gern",
         "mit",
-        "Tom."
+        "Tom.",
+        "lachen",
+        "wir"
       ]
     },
     {
@@ -313,12 +317,14 @@
       "tokens_l1": [
         "On",
         "joue",
-        "ensemble."
+        "ensemble.",
+        "avec"
       ],
       "tokens_l2": [
         "Wir",
         "spielen",
-        "zusammen."
+        "zusammen.",
+        "mit"
       ]
     },
     {
@@ -330,13 +336,15 @@
         "Ma",
         "mère",
         "aime",
-        "cuisiner."
+        "cuisiner.",
+        "chante"
       ],
       "tokens_l2": [
         "Meine",
         "Mutter",
         "kocht",
-        "gern."
+        "gern.",
+        "singt"
       ]
     },
     {
@@ -349,14 +357,16 @@
         "chante,",
         "et",
         "on",
-        "rit !"
+        "rit !",
+        "avec"
       ],
       "tokens_l2": [
         "Opa",
         "singt,",
         "und",
         "wir",
-        "lachen!"
+        "lachen!",
+        "mit"
       ]
     },
     {

@@ -352,12 +352,14 @@
       "tokens_l1": [
         "Combien",
         "ça",
-        "coûte ?"
+        "coûte ?",
+        "lac"
       ],
       "tokens_l2": [
         "Was",
         "kostet",
-        "das?"
+        "das?",
+        "wo"
       ]
     },
     {
@@ -369,7 +371,10 @@
         "J'ai",
         "de l'argent.",
         "J'achète",
-        "une glace !"
+        "une",
+        "glace !",
+        "coûte",
+        "trois"
       ],
       "tokens_l2": [
         "Ich",
@@ -378,7 +383,9 @@
         "Ich",
         "kaufe",
         "ein",
-        "Eis!"
+        "Eis!",
+        "drei",
+        "kostet"
       ]
     },
     {
@@ -388,16 +395,21 @@
       "l2": "Geh geradeaus. Dann nach rechts.",
       "tokens_l1": [
         "Va",
-        "tout droit.",
+        "tout",
+        "droit.",
         "Ensuite,",
-        "à droite."
+        "à droite.",
+        "coûte",
+        "trois"
       ],
       "tokens_l2": [
         "Geh",
         "geradeaus.",
         "Dann",
         "nach",
-        "rechts."
+        "rechts.",
+        "kostet",
+        "drei"
       ]
     },
     {
@@ -406,11 +418,15 @@
       "l1": "J'y vais à pied. L'école n'est pas loin !",
       "l2": "Ich gehe zu Fuß. Die Schule ist nicht weit!",
       "tokens_l1": [
-        "J'y vais",
+        "J'y",
+        "vais",
         "à pied.",
         "L'école",
-        "n'est pas",
-        "loin !"
+        "n'est",
+        "pas",
+        "loin !",
+        "coûte",
+        "euros"
       ],
       "tokens_l2": [
         "Ich",
@@ -420,7 +436,9 @@
         "Schule",
         "ist",
         "nicht",
-        "weit!"
+        "weit!",
+        "drei",
+        "kostet"
       ]
     },
     {

@@ -306,7 +306,7 @@ Le nombre de cartes audio dans `json/*.content.json` doit correspondre au nombre
 
 ## Exercices faits main
 
-Les exercices générés automatiquement sont pensés pour des adultes. Pour un enfant, ils posent des problèmes concrets : des mauvaises réponses tirées de séries pas encore vues (« Où est le parc ? » pour *tschüss*), des textes à trous ambigus sans traduction, des étiquettes parasites dans les phrases à remettre en ordre. Toutes les fiches (introduction et séries) ont donc des exercices **écrits à la main**, dans `exercises/<nom de la fiche>.exercises.json` (`"mode": "replace"` : ils remplacent les exercices générés).
+Les exercices générés automatiquement sont pensés pour des adultes. Pour un enfant, ils posent des problèmes concrets : des mauvaises réponses tirées de séries pas encore vues (« Où est le parc ? » pour *tschüss*), des textes à trous ambigus sans traduction, des phrases entières en trop dans les exercices à remettre en ordre. Toutes les fiches (introduction et séries) ont donc des exercices **écrits à la main**, dans `exercises/<nom de la fiche>.exercises.json` (`"mode": "replace"` : ils remplacent les exercices générés).
 
 Les fiches d'introduction n'ont des exercices que depuis [lstux/Slovingo#36](https://github.com/lstux/Slovingo/pull/36) ; avant, leurs fichiers sont simplement ignorés.
 
@@ -317,7 +317,7 @@ Les fiches d'introduction n'ont des exercices que depuis [lstux/Slovingo#36](htt
 - **Même forme** : un mot contre des mots, une phrase contre des phrases de longueur proche, pour que la réponse ne se devine pas à sa longueur.
 - **Distracteurs utiles** : ils ciblent les vraies confusions (*kein* / *nein*, *vier* / *für*, *Deutsch* / *Deutschland*, *zwei* / *zehn*, *wie heißt du* / *wie geht's*).
 - **Textes à trous** : toujours `"show_translation": true` (la phrase dans l'autre langue s'affiche au-dessus), et la ponctuation reste autour du trou.
-- **Remettre en ordre** : au moins **3 étiquettes** de chaque côté (le bouton « Vérifier » ne s'active pas en dessous), regrouper ce qui va ensemble (« va ? », « De rien ! »), pas d'étiquette en trop sauf dans la fiche extra (une seule, pour réviser).
+- **Remettre en ordre** : au moins **3 étiquettes** de chaque côté (le bouton « Vérifier » ne s'active pas en dessous), regrouper ce qui va ensemble (« va ? », « De rien ! »), la ponctuation toujours collée à son mot (jamais d'étiquette « ! » seule), et **1 ou 2 mots parasites** à la fin, jamais aucun : des mots isolés pris dans la fiche, sinon dans la série ou le cours, jamais une autre forme d'un mot de la phrase. `python3 src/order_tokens.py --lang-dir ../Slovingo-de-fr-kids --parasites 1-2 --apply` (repo Slovingo) les ajoute là où il en manque.
 - **Prénom** : `[USER_NAME]` est remplacé par le prénom (ou « Linus ») ; on ne le met jamais en trou ni comme réponse à trouver.
 - **Les 5 types** quand la fiche s'y prête, pour que les sessions de 10 questions soient variées. L'écoute 🔊 est le type le plus utilisé : c'est le cœur du cours.
 

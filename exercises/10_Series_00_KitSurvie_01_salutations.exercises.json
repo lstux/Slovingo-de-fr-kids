@@ -256,12 +256,15 @@
       "tokens_l1": [
         "Salut !",
         "Comment",
-        "ça va ?"
+        "ça",
+        "va ?",
+        "merci"
       ],
       "tokens_l2": [
         "Hallo!",
         "Wie",
-        "geht's?"
+        "geht's?",
+        "danke"
       ]
     },
     {

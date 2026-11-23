@@ -251,13 +251,17 @@
       "tokens_l1": [
         "C'est",
         "ma",
-        "famille."
+        "famille.",
+        "papa",
+        "maman"
       ],
       "tokens_l2": [
         "Das",
         "ist",
         "meine",
-        "Familie."
+        "Familie.",
+        "und",
+        "bist"
       ]
     },
     {
@@ -270,14 +274,18 @@
         "frère",
         "et",
         "ma",
-        "sœur."
+        "sœur.",
+        "papa",
+        "maman"
       ],
       "tokens_l2": [
         "Mein",
         "Bruder",
         "und",
         "meine",
-        "Schwester."
+        "Schwester.",
+        "ist",
+        "toll"
       ]
     },
     {
@@ -289,13 +297,15 @@
         "Salut,",
         "maman !",
         "Salut,",
-        "papa !"
+        "papa !",
+        "mon"
       ],
       "tokens_l2": [
         "Hallo,",
         "Mama!",
         "Hallo,",
-        "Papa!"
+        "Papa!",
+        "ist"
       ]
     },
     {

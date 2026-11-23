@@ -321,13 +321,15 @@
         "Mamie",
         "a",
         "un",
-        "chien."
+        "chien.",
+        "maison"
       ],
       "tokens_l2": [
         "Oma",
         "hat",
         "einen",
-        "Hund."
+        "Hund.",
+        "hast"
       ]
     },
     {
@@ -339,13 +341,17 @@
         "Tu",
         "as",
         "un",
-        "chien ?"
+        "chien ?",
+        "mon",
+        "frère"
       ],
       "tokens_l2": [
         "Hast",
         "du",
         "einen",
-        "Hund?"
+        "Hund?",
+        "meinen",
+        "hat"
       ]
     },
     {
@@ -358,14 +364,20 @@
         "et",
         "papi",
         "sont",
-        "à la maison."
+        "à",
+        "la",
+        "maison.",
+        "jardin",
+        "un"
       ],
       "tokens_l2": [
         "Oma",
         "und",
         "Opa",
         "sind",
-        "zu Hause."
+        "zu Hause.",
+        "hat",
+        "einen"
       ]
     },
     {
@@ -378,14 +390,16 @@
         "maison",
         "a",
         "un",
-        "jardin."
+        "jardin.",
+        "à"
       ],
       "tokens_l2": [
         "Das",
         "Haus",
         "hat",
         "einen",
-        "Garten."
+        "Garten.",
+        "zu"
       ]
     },
     {

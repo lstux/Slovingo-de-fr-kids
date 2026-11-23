@@ -249,13 +249,18 @@
       "tokens_l1": [
         "Ça",
         "coûte",
-        "trois euros."
+        "trois",
+        "euros.",
+        "as",
+        "l'argent"
       ],
       "tokens_l2": [
         "Das",
         "kostet",
         "drei",
-        "Euro."
+        "Euro.",
+        "du",
+        "kaufe"
       ]
     },
     {
@@ -267,13 +272,15 @@
         "Je",
         "retrouve",
         "Lea",
-        "au parc."
+        "au parc.",
+        "coûte"
       ],
       "tokens_l2": [
         "Ich",
         "treffe",
         "Lea",
-        "im Park."
+        "im Park.",
+        "drei"
       ]
     },
     {
@@ -285,13 +292,19 @@
         "Maman",
         "achète",
         "du pain",
-        "à la boulangerie."
+        "à",
+        "la",
+        "boulangerie.",
+        "trois"
       ],
       "tokens_l2": [
         "Mama",
         "kauft",
         "Brot",
-        "in der Bäckerei."
+        "in",
+        "der",
+        "Bäckerei.",
+        "drei"
       ]
     },
     {

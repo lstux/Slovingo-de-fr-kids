@@ -378,15 +378,21 @@
       "l2": "Die Kartoffeln sind warm!",
       "tokens_l1": [
         "Les",
-        "pommes de terre",
+        "pommes",
+        "de",
+        "terre",
         "sont",
-        "chaudes !"
+        "chaudes !",
+        "lait",
+        "voudrais"
       ],
       "tokens_l2": [
         "Die",
         "Kartoffeln",
         "sind",
-        "warm!"
+        "warm!",
+        "fertig",
+        "du"
       ]
     },
     {
@@ -398,15 +404,20 @@
         "Non,",
         "merci.",
         "Je",
-        "n'ai plus",
-        "faim !"
+        "n'ai",
+        "plus",
+        "faim !",
+        "du",
+        "est"
       ],
       "tokens_l2": [
         "Nein,",
         "danke.",
         "Ich",
         "bin",
-        "satt!"
+        "satt!",
+        "du",
+        "ist"
       ]
     },
     {
@@ -424,12 +435,10 @@
         "les",
         "pommes",
         "de",
-        "terre",
-        "?",
+        "terre ?",
         "Chaudes",
         "ou",
-        "froides",
-        "?"
+        "froides ?"
       ],
       "tokens_l2": [
         "Möchtest",
@@ -452,10 +461,14 @@
       "l2": "Und die Kartoffeln? Warm oder kalt?",
       "tokens_l1": [
         "Et",
-        "les pommes de terre ?",
+        "les",
+        "pommes",
+        "de",
+        "terre ?",
         "Chaudes",
         "ou",
-        "froides ?"
+        "froides ?",
+        "est"
       ],
       "tokens_l2": [
         "Und",
@@ -463,7 +476,8 @@
         "Kartoffeln?",
         "Warm",
         "oder",
-        "kalt?"
+        "kalt?",
+        "ist"
       ]
     },
     {

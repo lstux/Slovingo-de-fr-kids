@@ -268,13 +268,19 @@
         "Mon",
         "livre",
         "est",
-        "sur la table."
+        "sur",
+        "la",
+        "table.",
+        "sont"
       ],
       "tokens_l2": [
         "Mein",
         "Buch",
         "ist",
-        "auf dem Tisch."
+        "auf",
+        "dem",
+        "Tisch.",
+        "im"
       ]
     },
     {
@@ -286,13 +292,15 @@
         "Où",
         "sont",
         "mes",
-        "livres ?"
+        "livres ?",
+        "est"
       ],
       "tokens_l2": [
         "Wo",
         "sind",
         "meine",
-        "Bücher?"
+        "Bücher?",
+        "ist"
       ]
     },
     {
@@ -304,13 +312,21 @@
         "Le",
         "chat",
         "est",
-        "sur le lit."
+        "sur",
+        "le",
+        "lit.",
+        "sont",
+        "mes"
       ],
       "tokens_l2": [
         "Die",
         "Katze",
         "ist",
-        "auf dem Bett."
+        "auf",
+        "dem",
+        "Bett.",
+        "sind",
+        "meine"
       ]
     },
     {

@@ -192,15 +192,19 @@
       "l2": "Geh geradeaus. Dann nach links.",
       "tokens_l1": [
         "Va",
-        "tout droit.",
+        "tout",
+        "droit.",
         "Ensuite,",
-        "à gauche."
+        "à gauche.",
+        "là-bas"
       ],
       "tokens_l2": [
         "Geh",
         "geradeaus.",
         "Dann",
-        "nach links."
+        "nach",
+        "links.",
+        "treffe"
       ]
     },
     {
@@ -211,12 +215,18 @@
       "tokens_l1": [
         "Combien",
         "coûte",
-        "une glace ?"
+        "une",
+        "glace ?",
+        "là-bas",
+        "retrouve"
       ],
       "tokens_l2": [
         "Was",
         "kostet",
-        "ein Eis?"
+        "ein",
+        "Eis?",
+        "dort",
+        "treffe"
       ]
     },
     {
@@ -229,14 +239,17 @@
         "Je",
         "retrouve",
         "Lea",
-        "là-bas."
+        "là-bas.",
+        "droit"
       ],
       "tokens_l2": [
-        "Die Eisdiele.",
+        "Die",
+        "Eisdiele.",
         "Ich",
         "treffe",
         "Lea",
-        "dort."
+        "dort.",
+        "nach"
       ]
     },
     {

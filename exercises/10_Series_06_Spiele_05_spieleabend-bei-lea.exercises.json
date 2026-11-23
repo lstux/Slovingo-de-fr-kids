@@ -191,16 +191,21 @@
       "l1": "Bien sûr, je joue aussi !",
       "l2": "Klar, ich mache mit!",
       "tokens_l1": [
-        "Bien sûr,",
+        "Bien",
+        "sûr,",
         "je",
         "joue",
-        "aussi !"
+        "aussi !",
+        "le",
+        "dé"
       ],
       "tokens_l2": [
         "Klar,",
         "ich",
         "mache",
-        "mit!"
+        "mit!",
+        "kannst",
+        "würfeln"
       ]
     },
     {
@@ -212,15 +217,21 @@
         "Tu",
         "sais",
         "bien",
-        "lancer le dé,",
-        "Tom !"
+        "lancer",
+        "le",
+        "dé,",
+        "Tom !",
+        "société",
+        "jeu"
       ],
       "tokens_l2": [
         "Du",
         "kannst",
         "gut",
         "würfeln,",
-        "Tom!"
+        "Tom!",
+        "ein",
+        "spielen"
       ]
     },
     {
@@ -231,12 +242,20 @@
       "tokens_l1": [
         "Bravo,",
         "[USER_NAME] !",
-        "On en refait une ?"
+        "On",
+        "en",
+        "refait",
+        "une ?",
+        "le",
+        "bien"
       ],
       "tokens_l2": [
         "Glückwunsch,",
         "[USER_NAME]!",
-        "Noch einmal?"
+        "Noch",
+        "einmal?",
+        "kannst",
+        "würfeln"
       ]
     },
     {

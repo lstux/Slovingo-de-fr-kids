@@ -304,13 +304,15 @@
       "tokens_l1": [
         "Quel",
         "âge",
-        "as-tu ?"
+        "as-tu ?",
+        "sont"
       ],
       "tokens_l2": [
         "Wie",
         "alt",
         "bist",
-        "du?"
+        "du?",
+        "sind"
       ]
     },
     {
@@ -321,14 +323,16 @@
       "tokens_l1": [
         "J'ai",
         "huit",
-        "ans."
+        "ans.",
+        "petits"
       ],
       "tokens_l2": [
         "Ich",
         "bin",
         "acht",
         "Jahre",
-        "alt."
+        "alt.",
+        "sind"
       ]
     },
     {
@@ -340,13 +344,17 @@
         "Ma",
         "sœur",
         "est",
-        "petite."
+        "petite.",
+        "huit",
+        "ans"
       ],
       "tokens_l2": [
         "Meine",
         "Schwester",
         "ist",
-        "klein."
+        "klein.",
+        "acht",
+        "bin"
       ]
     },
     {
@@ -359,7 +367,9 @@
         "frère",
         "a",
         "dix",
-        "ans."
+        "ans.",
+        "enfants",
+        "sont"
       ],
       "tokens_l2": [
         "Mein",
@@ -367,7 +377,9 @@
         "ist",
         "zehn",
         "Jahre",
-        "alt."
+        "alt.",
+        "sind",
+        "klein"
       ]
     },
     {

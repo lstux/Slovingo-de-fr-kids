@@ -204,12 +204,16 @@
       "tokens_l1": [
         "On",
         "joue",
-        "ensemble ?"
+        "ensemble ?",
+        "gâteau",
+        "génial"
       ],
       "tokens_l2": [
         "Spielen",
         "wir",
-        "zusammen?"
+        "zusammen?",
+        "toll",
+        "ist"
       ]
     },
     {
@@ -222,7 +226,8 @@
         "Tom.",
         "C'est",
         "mon",
-        "copain."
+        "copain.",
+        "les"
       ],
       "tokens_l2": [
         "Das",
@@ -231,7 +236,8 @@
         "Er",
         "ist",
         "mein",
-        "Freund."
+        "Freund.",
+        "bin"
       ]
     },
     {
@@ -245,7 +251,8 @@
         "La",
         "maison",
         "est",
-        "grande !"
+        "grande !",
+        "ans"
       ],
       "tokens_l2": [
         "Hallo,",
@@ -253,7 +260,8 @@
         "Das",
         "Haus",
         "ist",
-        "groß!"
+        "groß!",
+        "du"
       ]
     },
     {
@@ -266,7 +274,8 @@
         "neuf",
         "ans.",
         "Et",
-        "toi ?"
+        "toi ?",
+        "gâteau"
       ],
       "tokens_l2": [
         "Ich",
@@ -275,7 +284,8 @@
         "Jahre",
         "alt.",
         "Und",
-        "du?"
+        "du?",
+        "toll"
       ]
     },
     {

@@ -235,14 +235,18 @@
       "tokens_l1": [
         "Où",
         "est",
-        "la salle de bain",
-        "?"
+        "la",
+        "salle",
+        "de",
+        "bain ?",
+        "jardin"
       ],
       "tokens_l2": [
         "Wo",
         "ist",
         "das",
-        "Badezimmer?"
+        "Badezimmer?",
+        "einen"
       ]
     },
     {
@@ -251,14 +255,18 @@
       "l1": "Il y a quatre pièces.",
       "l2": "Es gibt vier Zimmer.",
       "tokens_l1": [
-        "Il y a",
+        "Il",
+        "y",
+        "a",
         "quatre",
-        "pièces."
+        "pièces.",
+        "là-bas"
       ],
       "tokens_l2": [
         "Es gibt",
         "vier",
-        "Zimmer."
+        "Zimmer.",
+        "dort"
       ]
     },
     {
@@ -270,13 +278,17 @@
         "La",
         "chambre",
         "est",
-        "là-bas."
+        "là-bas.",
+        "y",
+        "a"
       ],
       "tokens_l2": [
         "Das",
         "Schlafzimmer",
         "ist",
-        "dort."
+        "dort.",
+        "gibt",
+        "einen"
       ]
     },
     {

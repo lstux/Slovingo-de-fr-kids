@@ -256,13 +256,15 @@
       "tokens_l1": [
         "J'aime",
         "manger",
-        "des fruits."
+        "des fruits.",
+        "du"
       ],
       "tokens_l2": [
         "Ich",
         "esse",
         "gern",
-        "Obst."
+        "Obst.",
+        "du"
       ]
     },
     {
@@ -272,14 +274,18 @@
       "l2": "Lea isst kein Gemüse.",
       "tokens_l1": [
         "Lea",
-        "ne mange pas",
-        "de légumes."
+        "ne",
+        "mange",
+        "pas",
+        "de légumes.",
+        "du"
       ],
       "tokens_l2": [
         "Lea",
         "isst",
         "kein",
-        "Gemüse."
+        "Gemüse.",
+        "esse"
       ]
     },
     {
@@ -291,13 +297,17 @@
         "On",
         "boit",
         "du lait",
-        "ensemble."
+        "ensemble.",
+        "mange",
+        "pain"
       ],
       "tokens_l2": [
         "Wir",
         "trinken",
         "Milch",
-        "zusammen."
+        "zusammen.",
+        "esse",
+        "gern"
       ]
     },
     {

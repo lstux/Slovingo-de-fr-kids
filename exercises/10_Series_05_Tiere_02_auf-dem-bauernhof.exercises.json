@@ -273,13 +273,17 @@
         "La",
         "vache",
         "fait",
-        "meuh."
+        "meuh.",
+        "y",
+        "et"
       ],
       "tokens_l2": [
         "Die",
         "Kuh",
         "macht",
-        "Muh."
+        "Muh.",
+        "dem",
+        "gibt"
       ]
     },
     {
@@ -291,13 +295,19 @@
         "Le",
         "mouton",
         "est",
-        "à la ferme."
+        "à",
+        "la",
+        "ferme.",
+        "poules"
       ],
       "tokens_l2": [
         "Das",
         "Schaf",
         "ist",
-        "auf dem Bauernhof."
+        "auf",
+        "dem",
+        "Bauernhof.",
+        "sind"
       ]
     },
     {
@@ -306,18 +316,27 @@
       "l1": "À la ferme, il y a des vaches et des moutons.",
       "l2": "Auf dem Bauernhof gibt es Kühe und Schafe.",
       "tokens_l1": [
-        "À la ferme,",
-        "il y a",
+        "À",
+        "la",
+        "ferme,",
+        "il",
+        "y",
+        "a",
         "des vaches",
         "et",
-        "des moutons."
+        "des moutons.",
+        "cheval"
       ],
       "tokens_l2": [
-        "Auf dem Bauernhof",
-        "gibt es",
+        "Auf",
+        "dem",
+        "Bauernhof",
+        "gibt",
+        "es",
         "Kühe",
         "und",
-        "Schafe."
+        "Schafe.",
+        "ist"
       ]
     },
     {

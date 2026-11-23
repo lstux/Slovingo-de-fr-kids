@@ -226,12 +226,14 @@
       "tokens_l1": [
         "Un,",
         "deux,",
-        "trois !"
+        "trois !",
+        "doigts"
       ],
       "tokens_l2": [
         "Eins,",
         "zwei,",
-        "drei!"
+        "drei!",
+        "viel"
       ]
     },
     {

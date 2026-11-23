@@ -315,12 +315,16 @@
       "tokens_l1": [
         "Comment",
         "tu",
-        "t'appelles ?"
+        "t'appelles ?",
+        "je",
+        "comprends"
       ],
       "tokens_l2": [
         "Wie",
         "heißt",
-        "du?"
+        "du?",
+        "nicht",
+        "verstehe"
       ]
     },
     {
@@ -331,12 +335,14 @@
       "tokens_l1": [
         "Je",
         "m'appelle",
-        "[USER_NAME]."
+        "[USER_NAME].",
+        "français"
       ],
       "tokens_l2": [
         "Ich",
         "heiße",
-        "[USER_NAME]."
+        "[USER_NAME].",
+        "du"
       ]
     },
     {
@@ -347,12 +353,16 @@
       "tokens_l1": [
         "Tu",
         "parles",
-        "français ?"
+        "français ?",
+        "ne",
+        "je"
       ],
       "tokens_l2": [
         "Sprichst",
         "du",
-        "Französisch?"
+        "Französisch?",
+        "nicht",
+        "verstehe"
       ]
     },
     {
@@ -365,13 +375,17 @@
         "je",
         "ne",
         "comprends",
-        "pas."
+        "pas.",
+        "revoir",
+        "de"
       ],
       "tokens_l2": [
         "Entschuldigung,",
         "ich",
         "verstehe",
-        "nicht."
+        "nicht.",
+        "du",
+        "heißt"
       ]
     },
     {
@@ -384,14 +398,16 @@
         "[USER_NAME] !",
         "Je",
         "m'appelle",
-        "Lea."
+        "Lea.",
+        "parles"
       ],
       "tokens_l2": [
         "Hallo,",
         "[USER_NAME]!",
         "Ich",
         "heiße",
-        "Lea."
+        "Lea.",
+        "du"
       ]
     },
     {

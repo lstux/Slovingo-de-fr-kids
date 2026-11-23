@@ -284,13 +284,19 @@
         "Le",
         "lit",
         "est",
-        "dans la chambre."
+        "dans",
+        "la",
+        "chambre.",
+        "et",
+        "a"
       ],
       "tokens_l2": [
         "Das",
         "Bett",
         "ist",
-        "im Schlafzimmer."
+        "im Schlafzimmer.",
+        "einen",
+        "und"
       ]
     },
     {
@@ -302,13 +308,19 @@
         "La",
         "table",
         "est",
-        "dans la cuisine."
+        "dans",
+        "la",
+        "cuisine.",
+        "lit"
       ],
       "tokens_l2": [
         "Der",
         "Tisch",
         "ist",
-        "in der Küche."
+        "in",
+        "der",
+        "Küche.",
+        "im"
       ]
     },
     {
@@ -319,12 +331,18 @@
       "tokens_l1": [
         "Papi",
         "est",
-        "dans le jardin."
+        "dans",
+        "le",
+        "jardin.",
+        "une",
+        "table"
       ],
       "tokens_l2": [
         "Opa",
         "ist",
-        "im Garten."
+        "im Garten.",
+        "gibt",
+        "vier"
       ]
     },
     {

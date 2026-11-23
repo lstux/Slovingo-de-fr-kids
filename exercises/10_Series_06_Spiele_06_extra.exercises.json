@@ -369,14 +369,18 @@
         "On",
         "est",
         "une équipe,",
-        "[USER_NAME] !"
+        "[USER_NAME] !",
+        "sous",
+        "puzzle"
       ],
       "tokens_l2": [
         "Wir",
         "sind",
         "eine",
         "Mannschaft,",
-        "[USER_NAME]!"
+        "[USER_NAME]!",
+        "dem",
+        "ist"
       ]
     },
     {
@@ -388,13 +392,17 @@
         "On",
         "fait",
         "un",
-        "puzzle !"
+        "puzzle !",
+        "grand",
+        "est"
       ],
       "tokens_l2": [
         "Wir",
         "machen",
         "ein",
-        "Puzzle!"
+        "Puzzle!",
+        "klettere",
+        "sehr"
       ]
     },
     {
@@ -406,13 +414,17 @@
         "Tu",
         "sais",
         "bien",
-        "lancer le dé !"
+        "lancer",
+        "le",
+        "dé !",
+        "lit"
       ],
       "tokens_l2": [
         "Du",
         "kannst",
         "gut",
-        "würfeln!"
+        "würfeln!",
+        "unter"
       ]
     },
     {
@@ -424,7 +436,10 @@
         "Bravo !",
         "On",
         "rejoue",
-        "une fois ?"
+        "une",
+        "fois ?",
+        "le",
+        "puzzle"
       ],
       "tokens_l2": [
         "Glückwunsch!",
@@ -432,7 +447,9 @@
         "wir",
         "noch",
         "einmal",
-        "spielen?"
+        "spielen?",
+        "unter",
+        "dem"
       ]
     },
     {

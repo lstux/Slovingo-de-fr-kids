@@ -277,15 +277,20 @@
       "l2": "Der Fuchs isst kein Kaninchen!",
       "tokens_l1": [
         "Le renard",
-        "ne mange pas",
-        "de lapin !"
+        "ne",
+        "mange",
+        "pas",
+        "de",
+        "lapin !",
+        "est"
       ],
       "tokens_l2": [
         "Der",
         "Fuchs",
         "isst",
         "kein",
-        "Kaninchen!"
+        "Kaninchen!",
+        "ist"
       ]
     },
     {
@@ -297,13 +302,15 @@
         "Lea",
         "est",
         "un",
-        "lièvre."
+        "lièvre.",
+        "pas"
       ],
       "tokens_l2": [
         "Lea",
         "ist",
         "ein",
-        "Hase."
+        "Hase.",
+        "isst"
       ]
     },
     {
@@ -315,13 +322,15 @@
         "Le",
         "poisson",
         "est",
-        "dans l'eau."
+        "dans l'eau.",
+        "écureuils"
       ],
       "tokens_l2": [
         "Der",
         "Fisch",
         "ist",
-        "im Wasser."
+        "im Wasser.",
+        "zwei"
       ]
     },
     {
